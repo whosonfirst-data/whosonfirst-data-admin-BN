@@ -1,0 +1,70 @@
+{
+  "id": 1210026629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.1,4.65,115.1,4.65",
+    "geom:latitude":4.65,
+    "geom:longitude":115.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Biang",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820706,
+    "gn:latitude":4.65,
+    "gn:longitude":115.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Biang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biang",
+        "Kampong Biang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820706
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"4cf09a908aa5a79f4f5eb0d99ea16c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1210026629,
+            "region_id":85669491
+        }
+    ],
+    "wof:id":1210026629,
+    "wof:lastmodified":1537587895,
+    "wof:name":"Kampong Biang",
+    "wof:parent_id":85669491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.1,
+    4.65,
+    115.1,
+    4.65
+],
+  "geometry": {"coordinates":[115.09999999999999,4.65],"type":"Point"}
+}

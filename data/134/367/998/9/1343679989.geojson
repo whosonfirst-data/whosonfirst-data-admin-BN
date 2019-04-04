@@ -1,0 +1,70 @@
+{
+  "id": 1343679989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.65,4.73333,114.65,4.73333",
+    "geom:latitude":4.73333,
+    "geom:longitude":114.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Nong Kelulau",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820628,
+    "gn:latitude":4.73333,
+    "gn:longitude":114.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Nong Kelulau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nong Kelulau",
+        "Kampong Nong Kelulau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820628
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"f8e9062af1b4e3e56c5fbe6852d0a338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1343679989,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1343679989,
+    "wof:lastmodified":1537587893,
+    "wof:name":"Kampong Nong Kelulau",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.65,
+    4.73333,
+    114.65,
+    4.73333
+],
+  "geometry": {"coordinates":[114.65000000000001,4.73333],"type":"Point"}
+}

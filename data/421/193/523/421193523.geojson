@@ -1,0 +1,72 @@
+{
+  "id": 421193523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.68333,4.81667,114.68333,4.81667",
+    "geom:latitude":4.81667,
+    "geom:longitude":114.68333,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1820665,
+    "qs:gn_pop":0,
+    "qs:name":"Kampong Keriam",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Tutong",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":911415,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020578,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820665,
+        "gp:id":1020578,
+        "qs:id":911415
+    },
+    "wof:country":"BN",
+    "wof:created":1459009774,
+    "wof:geomhash":"2ff8ab78692dd7c70df38f0f22d782e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421193523,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":421193523,
+    "wof:lastmodified":1466635877,
+    "wof:name":"Kampong Keriam",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.68333,
+    4.81667,
+    114.68333,
+    4.81667
+],
+  "geometry": {"coordinates":[114.68333,4.81667],"type":"Point"}
+}

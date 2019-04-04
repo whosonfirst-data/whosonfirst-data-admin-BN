@@ -1,0 +1,65 @@
+{
+  "id": 1242592249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.73333,4.76667,114.73333,4.76667",
+    "geom:latitude":4.76667,
+    "geom:longitude":114.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Bukit Tambai",
+    "gn:country_code":"BN",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820692,
+    "gn:latitude":4.76667,
+    "gn:longitude":114.73333,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Bukit Tambai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820692
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"fd46bf083b2ea6122b19d53ea37f0022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1242592249,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1242592249,
+    "wof:lastmodified":1537040744,
+    "wof:name":"Kampong Bukit Tambai",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.73333,
+    4.76667,
+    114.73333,
+    4.76667
+],
+  "geometry": {"coordinates":[114.73333,4.76667],"type":"Point"}
+}

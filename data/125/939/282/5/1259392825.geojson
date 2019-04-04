@@ -1,0 +1,70 @@
+{
+  "id": 1259392825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.83333,4.85,114.83333,4.85",
+    "geom:latitude":4.85,
+    "geom:longitude":114.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Bebatek",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820714,
+    "gn:latitude":4.85,
+    "gn:longitude":114.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Bebatek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Bebatok",
+        "Kampong Bebatek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820714
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"97b20c2dadd6f1c02b9d8a3690ccd5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1259392825,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1259392825,
+    "wof:lastmodified":1537587895,
+    "wof:name":"Kampong Bebatek",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.83333,
+    4.85,
+    114.83333,
+    4.85
+],
+  "geometry": {"coordinates":[114.83333,4.85],"type":"Point"}
+}

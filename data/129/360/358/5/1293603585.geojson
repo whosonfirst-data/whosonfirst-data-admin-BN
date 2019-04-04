@@ -1,0 +1,71 @@
+{
+  "id": 1293603585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.83333,4.93333,114.83333,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":114.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Menunggol",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820633,
+    "gn:latitude":4.93333,
+    "gn:longitude":114.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Menunggol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Menunggul",
+        "Kampong Mungunul",
+        "Kampong Menunggol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820633
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"03a9a7717c1906d3bf3af62aaf6c604d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1293603585,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1293603585,
+    "wof:lastmodified":1537587893,
+    "wof:name":"Kampong Menunggol",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.83333,
+    4.93333,
+    114.83333,
+    4.93333
+],
+  "geometry": {"coordinates":[114.83333,4.93333],"type":"Point"}
+}

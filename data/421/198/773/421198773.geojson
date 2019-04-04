@@ -1,0 +1,93 @@
+{
+  "id": 421198773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.916906,4.904587,114.916906,4.904587",
+    "geom:latitude":4.904587,
+    "geom:longitude":114.916906,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Gadong"
+    ],
+    "name:fra_x_preferred":[
+        "Gadong"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Gadong",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1650,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1112151,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049535,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.BM",
+    "statoids:name":"Gadong",
+    "statoids:population":"",
+    "statoids:statoid":"BN.BM.GA",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049535,
+        "hasc:id":"BN.BM.GA",
+        "qs:id":1112151
+    },
+    "wof:country":"BN",
+    "wof:created":1459009960,
+    "wof:geomhash":"17f3bb13d5b10716207d6073259de1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421198773,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421198773,
+    "wof:lastmodified":1536616127,
+    "wof:name":"Gadong",
+    "wof:parent_id":85669487,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"GA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.916906,
+    4.904587,
+    114.916906,
+    4.904587
+],
+  "geometry": {"coordinates":[114.916906,4.904587],"type":"Point"}
+}

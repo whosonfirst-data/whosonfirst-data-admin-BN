@@ -1,0 +1,109 @@
+{
+  "id": 421184425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.67429,4.588402,114.67429,4.588402",
+    "geom:latitude":4.588402,
+    "geom:longitude":114.67429,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Rambai"
+    ],
+    "name:eus_x_preferred":[
+        "Rambai"
+    ],
+    "name:ita_x_preferred":[
+        "Mukim di Rambai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30d0\u30a4\u90e1"
+    ],
+    "name:msa_x_preferred":[
+        "Mukim Rambai"
+    ],
+    "name:por_x_preferred":[
+        "Rambai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u0431\u0430\u0457"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rambai",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Tutong",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":996367,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049527,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.TU",
+    "statoids:name":"Rambai",
+    "statoids:population":"",
+    "statoids:statoid":"BN.TU.RA",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049527,
+        "hasc:id":"BN.TU.RA",
+        "qs:id":996367,
+        "wd:id":"Q2704145"
+    },
+    "wof:country":"BN",
+    "wof:created":1459009410,
+    "wof:geomhash":"b670e46c11d189b0380a3bb6a3705f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421184425,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":421184425,
+    "wof:lastmodified":1536616020,
+    "wof:name":"Rambai",
+    "wof:parent_id":85669495,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"RA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.67429,
+    4.588402,
+    114.67429,
+    4.588402
+],
+  "geometry": {"coordinates":[114.67429,4.588402],"type":"Point"}
+}

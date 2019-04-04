@@ -1,0 +1,310 @@
+{
+  "id": 85669485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.225662,
+    "geom:area_square_m":2782249883.782112,
+    "geom:bbox":"113.99878991,4.01668101042,114.817208294,4.68124864311",
+    "geom:latitude":4.366613,
+    "geom:longitude":114.50171,
+    "gn:population":77515,
+    "iso:country":"BN",
+    "label:eng_x_preferred_longname":[
+        "Belait District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":4.391425,
+    "lbl:longitude":114.501784,
+    "mps:latitude":4.391425,
+    "mps:longitude":114.501784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ace_x_preferred":[
+        "Wilayah Belait"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0644\u0627\u064a\u062a"
+    ],
+    "name:baq_x_preferred":[
+        "Belait barrutia"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09be\u09a4\u09bf \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0439\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Belait"
+    ],
+    "name:chi_x_preferred":[
+        "\u9a6c\u6765\u5955\u53bf"
+    ],
+    "name:dan_x_preferred":[
+        "Belait District"
+    ],
+    "name:dut_x_preferred":[
+        "Belait"
+    ],
+    "name:eng_x_preferred":[
+        "Belait"
+    ],
+    "name:eng_x_variant":[
+        "Belait District",
+        "Daerah Belait"
+    ],
+    "name:fin_x_preferred":[
+        "Belait"
+    ],
+    "name:fre_x_preferred":[
+        "Belait"
+    ],
+    "name:ger_x_preferred":[
+        "Belait"
+    ],
+    "name:glg_x_preferred":[
+        "Belait"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb\u03ac\u03b9\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0ab2\u0ac7\u0a9f\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05d9\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u0948\u0924 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Belait"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Belait"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30a4\u30c8\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc7\u0cb2\u0cc8\u0ca4\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub77c\uc787 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Belaitas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Belaito rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0932\u0947\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Daerah Belait"
+    ],
+    "name:nob_x_preferred":[
+        "Belait distrikt"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u0627\u0626\u06cc\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Belait"
+    ],
+    "name:por_x_preferred":[
+        "Belait"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u064a\u0644\u0627\u0626\u062a \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0439\u0442"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0dbd\u0dba\u0dd2\u0da7\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Belait"
+    ],
+    "name:swe_x_preferred":[
+        "Belait District"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0b9f\u0bcd\u0bb2\u0bc8\u0b9f\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c32\u0c46\u0c2f\u0c3f\u0c1f\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e1a\u0e2d\u0e44\u0e25\u0e15\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Belait District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0439\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Belait District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u0627\u0626\u062a \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Belait"
+    ],
+    "name:war_x_preferred":[
+        "Belait"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BRN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BRN-1181",
+    "ne:adm1_code":"BRN-1181",
+    "ne:admin":"Brunei",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BN.BE",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1181",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BX01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Brunei",
+    "ne:gn_a1_code":"BN.01",
+    "ne:gn_id":"1820869",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Belait District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BX01",
+    "ne:gns_id":"-1337213",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Belait District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BRN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BN-",
+    "ne:iso_a2":"BN",
+    "ne:labelrank":"9",
+    "ne:latitude":"4.45555000000",
+    "ne:longitude":"114.40800000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":6,
+    "ne:name":"Belait",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BE",
+    "ne:provnum_ne":"3",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"BRN",
+    "ne:sub_code":"",
+    "ne:type":"Daerah-Daerah",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":20069849,
+    "ne:woe_label":"Belait, BN, Brunei",
+    "ne:woe_name":"Belait",
+    "qs:a0":"Brunei",
+    "qs:a0_lc":"BN",
+    "qs:a1":"Belait",
+    "qs:a1_lc":"BRN-1181",
+    "qs:adm0":"Brunei",
+    "qs:adm0_a3":"BRN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-06-20",
+    "statoids:area_km":"2,725",
+    "statoids:area_mi":"1,052",
+    "statoids:as_of_date":"2011-06-20",
+    "statoids:capital":"Kuala Belait",
+    "statoids:country":"BN",
+    "statoids:gec":"BX01",
+    "statoids:hasc":"BN.BE",
+    "statoids:iso":"BE",
+    "statoids:name":"Belait",
+    "statoids:population":"60744",
+    "statoids:timezone":"+8",
+    "statoids:type":"district",
+    "unlc:subdivision":"BN-BE",
+    "wof:belongsto":[
+        102191569,
+        85632749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BX01",
+        "gn:id":1820869,
+        "gp:id":20069849,
+        "hasc:id":"BN.BE",
+        "iso:id":"BN-BE",
+        "qs:id":890280,
+        "unlc:id":"BN-BE",
+        "wd:id":"Q40395",
+        "wk:page":"Belait District"
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"ec6a4cccf79cc433bd38eb2f52880fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":85669485,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "msa"
+    ],
+    "wof:lang_x_spoken":[
+        "msa"
+    ],
+    "wof:lastmodified":1553550318,
+    "wof:name":"Belait",
+    "wof:parent_id":85632749,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":60744,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"BE",
+    "wof:subdivision":"BN-BE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.99878990982654,
+    4.01668101042037,
+    114.81720829352798,
+    4.68124864311045
+],
+  "geometry": {"coordinates":[[[114.7941632497342,4.30023952863138],[114.7878560793946,4.29415761328329],[114.78196496601038,4.28493337047871],[114.78258508453405,4.26441782642161],[114.81379764884252,4.2771043916544],[114.81720829352798,4.25966359549858],[114.80997359210767,4.24129262335595],[114.7871326089828,4.20721201582194],[114.78010461493614,4.18775583896087],[114.77452355991443,4.14646637022685],[114.76687544824335,4.13181610113219],[114.6748913981196,4.04406951889325],[114.62776249194553,4.01668101042037],[114.58662805194308,4.02143524224266],[114.58166711544504,4.02934173633213],[114.57422570844972,4.05414642331885],[114.56936812383992,4.06440419489775],[114.56140995290707,4.07202646904636],[114.54022261618081,4.08693512055942],[114.47738407551469,4.14496775345913],[114.46312137914845,4.16413970948008],[114.45330285714124,4.18369923912866],[114.43252893066563,4.24692535432172],[114.41991988249663,4.26012868349198],[114.40141971914477,4.2612138873111],[114.36049198471733,4.2538758340026],[114.31677372232946,4.26250579940319],[114.28266727727305,4.26490875283673],[114.27801639823826,4.27405548127547],[114.27625939995141,4.28901580783332],[114.2794633381626,4.29488108459441],[114.29341597526707,4.30705088319178],[114.29672326716513,4.31666270052324],[114.2899019777941,4.36131113709934],[114.27625939995141,4.38185251957816],[114.27625939995141,4.40973195446617],[114.26850793549283,4.43774058146272],[114.26261682120935,4.44872182345341],[114.25207482968972,4.46034902059085],[114.24876753779165,4.46688608822245],[114.24783736180484,4.47476674389014],[114.2455635986812,4.48143300452961],[114.23832889816015,4.48422353249009],[114.22292932203061,4.48463694364011],[114.21672814938461,4.48766001469795],[114.20908003771365,4.50814971943407],[114.19729781094532,4.51582367042607],[114.17269983043286,4.52522878038394],[114.14004032440153,4.55065358499502],[114.11895634046277,4.56163482698571],[114.06417932171837,4.5700322474903],[113.99878990982654,4.60114166945255],[114.2517195974815,4.59267812719384],[114.32667076954044,4.60687897358582],[114.39576256618955,4.64573802359098],[114.49444385320135,4.68124864311045],[114.50291303870586,4.65720958135717],[114.51278323755639,4.63431692138886],[114.52813113774187,4.61865896194161],[114.54105024607202,4.60181244498841],[114.55944705573711,4.59940949155487],[114.58249474533625,4.59804006599632],[114.59551720555464,4.57773122841348],[114.59081465057568,4.54731964798344],[114.59680911674741,4.52233409294411],[114.62797000511171,4.50303294481461],[114.65096601786752,4.48016612416734],[114.67251508979962,4.45308767315765],[114.69675133690475,4.42960073488604],[114.71602664571321,4.40580373825196],[114.73168460516047,4.37660655374953],[114.73948774556311,4.3460657821102],[114.75814293764654,4.32002085987483],[114.79157759003385,4.30164988953084],[114.79385135315749,4.30040965428219],[114.7941632497342,4.30023952863138]]],"type":"Polygon"}
+}

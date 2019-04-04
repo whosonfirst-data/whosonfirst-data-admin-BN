@@ -1,0 +1,70 @@
+{
+  "id": 1293215345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9471,4.82307,114.9471,4.82307",
+    "geom:latitude":4.82307,
+    "geom:longitude":114.9471,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Kasat",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820675,
+    "gn:latitude":4.82307,
+    "gn:longitude":114.9471,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Kampong Kasat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butir",
+        "Kampong Kasat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820675
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"073e3b6097500615a0e65ba473d431bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1293215345,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1293215345,
+    "wof:lastmodified":1537587894,
+    "wof:name":"Kampong Kasat",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9471,
+    4.82307,
+    114.9471,
+    4.82307
+],
+  "geometry": {"coordinates":[114.94710000000001,4.82307],"type":"Point"}
+}

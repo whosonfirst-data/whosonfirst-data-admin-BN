@@ -1,0 +1,72 @@
+{
+  "id": 421193409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.95,4.88333,114.95,4.88333",
+    "geom:latitude":4.88333,
+    "geom:longitude":114.95,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1820659,
+    "qs:gn_pop":0,
+    "qs:name":"Kampong Kota Batu",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":294,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":294,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894708,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020584,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820659,
+        "gp:id":1020584,
+        "qs:id":894708
+    },
+    "wof:country":"BN",
+    "wof:created":1459009770,
+    "wof:geomhash":"eca719b9c59f8ada9b9dab099f0a8d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421193409,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421193409,
+    "wof:lastmodified":1466635877,
+    "wof:name":"Kampong Kota Batu",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.95,
+    4.88333,
+    114.95,
+    4.88333
+],
+  "geometry": {"coordinates":[114.95,4.88333],"type":"Point"}
+}

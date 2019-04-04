@@ -1,0 +1,65 @@
+{
+  "id": 1343873077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.66667,4.61667,114.66667,4.61667",
+    "geom:latitude":4.61667,
+    "geom:longitude":114.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Kuala Ungar",
+    "gn:country_code":"BN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820656,
+    "gn:latitude":4.61667,
+    "gn:longitude":114.66667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Kuala Ungar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820656
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"75554240181fbee37987462c007a7cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1343873077,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1343873077,
+    "wof:lastmodified":1536647948,
+    "wof:name":"Kampong Kuala Ungar",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.66667,
+    4.61667,
+    114.66667,
+    4.61667
+],
+  "geometry": {"coordinates":[114.66667,4.61667],"type":"Point"}
+}

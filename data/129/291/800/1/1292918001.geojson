@@ -1,0 +1,71 @@
+{
+  "id": 1292918001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.79445,4.84309,114.79445,4.84309",
+    "geom:latitude":4.84309,
+    "geom:longitude":114.79445,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kupang",
+    "gn:country_code":"BN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820655,
+    "gn:latitude":4.84309,
+    "gn:longitude":114.79445,
+    "gn:modification_date":"2018-03-02",
+    "gn:name":"Kupang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kupang"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Kupang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820655
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"98a28039c0cd0d534fb71f845924e2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1292918001,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1292918001,
+    "wof:lastmodified":1537587894,
+    "wof:name":"Kupang",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.79445,
+    4.84309,
+    114.79445,
+    4.84309
+],
+  "geometry": {"coordinates":[114.79445,4.84309],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421190671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.91969,4.992252,114.91969,4.992252",
+    "geom:latitude":4.992252,
+    "geom:longitude":114.91969,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Berakas"
+    ],
+    "name:eus_x_preferred":[
+        "Berakas A"
+    ],
+    "name:ita_x_preferred":[
+        "Mukim di Berakas A"
+    ],
+    "name:por_x_preferred":[
+        "Berakas \"A\""
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u043a\u0430\u0441 A"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Berakas A",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":987,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120024,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049537,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.BM",
+    "statoids:name":"Berakas",
+    "statoids:population":"",
+    "statoids:statoid":"BN.BM.BE",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":282,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049537,
+        "hasc:id":"BN.BM.BE",
+        "qs:id":1120024,
+        "wd:id":"Q1952924"
+    },
+    "wof:country":"BN",
+    "wof:created":1459009665,
+    "wof:geomhash":"41bbc5509037b70f92be800f3376d25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421190671,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421190671,
+    "wof:lastmodified":1536616081,
+    "wof:name":"Berakas A",
+    "wof:parent_id":85669487,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"BE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.91969,
+    4.992252,
+    114.91969,
+    4.992252
+],
+  "geometry": {"coordinates":[114.91969,4.992252],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276547575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.56324,4.73558,114.56324,4.73558",
+    "geom:latitude":4.73558,
+    "geom:longitude":114.56324,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kampong Telisai",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820545,
+    "gn:latitude":4.73558,
+    "gn:longitude":114.56324,
+    "gn:modification_date":"2017-12-26",
+    "gn:name":"Kampong Telisai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Telisai"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Telisai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820545
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"355fc392a3d6bf3ae592a42bf0c5ed0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1276547575,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1276547575,
+    "wof:lastmodified":1537587891,
+    "wof:name":"Kampong Telisai",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.56324,
+    4.73558,
+    114.56324,
+    4.73558
+],
+  "geometry": {"coordinates":[114.56323999999999,4.73558],"type":"Point"}
+}

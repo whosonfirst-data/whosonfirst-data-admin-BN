@@ -1,0 +1,65 @@
+{
+  "id": 1259493443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9,4.95,114.9,4.95",
+    "geom:latitude":4.95,
+    "geom:longitude":114.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Panjang",
+    "gn:country_code":"BN",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820617,
+    "gn:latitude":4.95,
+    "gn:longitude":114.9,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Panjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820617
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"2f3dc3c4c07f0ed8c3d636c169f6b4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1259493443,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1259493443,
+    "wof:lastmodified":1536843337,
+    "wof:name":"Kampong Panjang",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9,
+    4.95,
+    114.9,
+    4.95
+],
+  "geometry": {"coordinates":[114.90000000000001,4.95],"type":"Point"}
+}

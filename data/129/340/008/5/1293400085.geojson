@@ -1,0 +1,65 @@
+{
+  "id": 1293400085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.1,4.75,115.1,4.75",
+    "geom:latitude":4.75,
+    "geom:longitude":115.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Labut",
+    "gn:country_code":"BN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820654,
+    "gn:latitude":4.75,
+    "gn:longitude":115.1,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Labut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820654
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"90f1e7b90e352356036777b80c405b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1293400085,
+            "region_id":85669491
+        }
+    ],
+    "wof:id":1293400085,
+    "wof:lastmodified":1536913343,
+    "wof:name":"Kampong Labut",
+    "wof:parent_id":85669491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.1,
+    4.75,
+    115.1,
+    4.75
+],
+  "geometry": {"coordinates":[115.09999999999999,4.75],"type":"Point"}
+}

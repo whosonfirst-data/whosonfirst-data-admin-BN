@@ -1,0 +1,71 @@
+{
+  "id": 1276996169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.72628,4.82774,114.72628,4.82774",
+    "geom:latitude":4.82774,
+    "geom:longitude":114.72628,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bukit Panggal",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820694,
+    "gn:latitude":4.82774,
+    "gn:longitude":114.72628,
+    "gn:modification_date":"2018-03-04",
+    "gn:name":"Bukit Panggal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Panggal"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Bukit Panggal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820694
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"94e45ee64181fb320dc9b47c67b4e93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1276996169,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1276996169,
+    "wof:lastmodified":1537587895,
+    "wof:name":"Bukit Panggal",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.72628,
+    4.82774,
+    114.72628,
+    4.82774
+],
+  "geometry": {"coordinates":[114.72628,4.82774],"type":"Point"}
+}

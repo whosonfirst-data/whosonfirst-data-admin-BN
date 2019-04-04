@@ -1,0 +1,71 @@
+{
+  "id": 1310615629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.73664,4.65826,114.73664,4.65826",
+    "geom:latitude":4.65826,
+    "geom:longitude":114.73664,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bukit Sulang",
+    "gn:country_code":"BN",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820693,
+    "gn:latitude":4.65826,
+    "gn:longitude":114.73664,
+    "gn:modification_date":"2018-05-25",
+    "gn:name":"Bukit Sulang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Bukit Sulang"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Bukit Sulang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820693
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"22d83fea65c196170ecc2367291086f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1310615629,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1310615629,
+    "wof:lastmodified":1537587895,
+    "wof:name":"Bukit Sulang",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.73664,
+    4.65826,
+    114.73664,
+    4.65826
+],
+  "geometry": {"coordinates":[114.73663999999999,4.65826],"type":"Point"}
+}

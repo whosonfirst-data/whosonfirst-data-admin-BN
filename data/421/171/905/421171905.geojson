@@ -1,0 +1,72 @@
+{
+  "id": 421171905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.91667,4.85,114.91667,4.85",
+    "geom:latitude":4.85,
+    "geom:longitude":114.91667,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1820641,
+    "qs:gn_pop":0,
+    "qs:name":"Kampong Lumapas",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":87,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":87,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":272888,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020602,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820641,
+        "gp:id":1020602,
+        "qs:id":272888
+    },
+    "wof:country":"BN",
+    "wof:created":1459008911,
+    "wof:geomhash":"8d60eb00aaf05350446269f7e3dba1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421171905,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421171905,
+    "wof:lastmodified":1466635834,
+    "wof:name":"Kampong Lumapas",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.91667,
+    4.85,
+    114.91667,
+    4.85
+],
+  "geometry": {"coordinates":[114.91667,4.85],"type":"Point"}
+}

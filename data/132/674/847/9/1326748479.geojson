@@ -1,0 +1,65 @@
+{
+  "id": 1326748479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.45,4.38333,114.45,4.38333",
+    "geom:latitude":4.38333,
+    "geom:longitude":114.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rampayoh",
+    "gn:country_code":"BN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820253,
+    "gn:latitude":4.38333,
+    "gn:longitude":114.45,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Rampayoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820253
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"5e7415d8fd318d599af232ff758c090a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1326748479,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":1326748479,
+    "wof:lastmodified":1536672227,
+    "wof:name":"Rampayoh",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.45,
+    4.38333,
+    114.45,
+    4.38333
+],
+  "geometry": {"coordinates":[114.45,4.38333],"type":"Point"}
+}

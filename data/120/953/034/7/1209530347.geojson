@@ -1,0 +1,67 @@
+{
+  "id": 1209530347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.87473,4.83797,114.87473,4.83797",
+    "geom:latitude":4.83797,
+    "geom:longitude":114.87473,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sinarubai",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820569,
+    "gn:latitude":4.83797,
+    "gn:longitude":114.87473,
+    "gn:modification_date":"2018-04-21",
+    "gn:name":"Sinarubai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Sinarubai"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Sinarubai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820569
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"294f5471d4fef9b0a8d51776c0e488a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632749,
+            "locality_id":1209530347
+        }
+    ],
+    "wof:id":1209530347,
+    "wof:lastmodified":1537587891,
+    "wof:name":"Sinarubai",
+    "wof:parent_id":85632749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.87473,
+    4.83797,
+    114.87473,
+    4.83797
+],
+  "geometry": {"coordinates":[114.87473,4.83797],"type":"Point"}
+}

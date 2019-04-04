@@ -1,0 +1,73 @@
+{
+  "id": 1226765873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.6,4.41667,114.6,4.41667",
+    "geom:latitude":4.41667,
+    "geom:longitude":114.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Kerangan Nyatan",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820666,
+    "gn:latitude":4.41667,
+    "gn:longitude":114.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Kerangan Nyatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karengen Nyatan",
+        "Krangan Nyata",
+        "Karangen Nyatan",
+        "Karangan Nyatan",
+        "Kampong Kerangan Nyatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820666
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"de5f943479896630946e01367de2b9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1226765873,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":1226765873,
+    "wof:lastmodified":1537587894,
+    "wof:name":"Kampong Kerangan Nyatan",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.6,
+    4.41667,
+    114.6,
+    4.41667
+],
+  "geometry": {"coordinates":[114.59999999999999,4.41667],"type":"Point"}
+}

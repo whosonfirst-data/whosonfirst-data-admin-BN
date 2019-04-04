@@ -1,0 +1,117 @@
+{
+  "id": 421183167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.511184,4.575056,114.511184,4.575056",
+    "geom:latitude":4.575056,
+    "geom:longitude":114.511184,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Liang"
+    ],
+    "name:deu_x_preferred":[
+        "Liang"
+    ],
+    "name:eng_x_preferred":[
+        "Liang"
+    ],
+    "name:fra_x_preferred":[
+        "Liang"
+    ],
+    "name:nld_x_preferred":[
+        "Liang"
+    ],
+    "name:pol_x_preferred":[
+        "Liang"
+    ],
+    "name:por_x_preferred":[
+        "Liang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Liang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044f\u043d"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Liang",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Belait",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":110,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":792771,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049519,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.BE",
+    "statoids:name":"Liang",
+    "statoids:population":"",
+    "statoids:statoid":"BN.BE.LI",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049519,
+        "hasc:id":"BN.BE.LI",
+        "qs:id":792771
+    },
+    "wof:country":"BN",
+    "wof:created":1459009360,
+    "wof:geomhash":"d129eb672b3d0fc7d2d0e6290e5d09b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421183167,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":421183167,
+    "wof:lastmodified":1536616007,
+    "wof:name":"Liang",
+    "wof:parent_id":85669485,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"LI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.511184,
+    4.575056,
+    114.511184,
+    4.575056
+],
+  "geometry": {"coordinates":[114.511184,4.575056],"type":"Point"}
+}

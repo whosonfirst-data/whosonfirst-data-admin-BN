@@ -1,0 +1,70 @@
+{
+  "id": 1343780265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.01667,4.96667,115.01667,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":115.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Panchuran",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820622,
+    "gn:latitude":4.96667,
+    "gn:longitude":115.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Panchuran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Panchor",
+        "Kampong Panchuran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820622
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"7137c78ee996e78898960ccd1bfacd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1343780265,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1343780265,
+    "wof:lastmodified":1537587892,
+    "wof:name":"Kampong Panchuran",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.01667,
+    4.96667,
+    115.01667,
+    4.96667
+],
+  "geometry": {"coordinates":[115.01667,4.96667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344267049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.81663,4.81992,114.81663,4.81992",
+    "geom:latitude":4.81992,
+    "geom:longitude":114.81663,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11821310.0",
+    "gn:asciiname":"Batong",
+    "gn:country_code":"BN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820720,
+    "gn:latitude":4.81992,
+    "gn:longitude":114.81663,
+    "gn:modification_date":"2018-07-15",
+    "gn:name":"Batong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Batong"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Batong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820720
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"4d72bf84c1a81e8879b73a40be88270f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1344267049,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1344267049,
+    "wof:lastmodified":1537587895,
+    "wof:name":"Batong",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.81663,
+    4.81992,
+    114.81663,
+    4.81992
+],
+  "geometry": {"coordinates":[114.81663,4.81992],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209825643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.83333,4.78333,114.83333,4.78333",
+    "geom:latitude":4.78333,
+    "geom:longitude":114.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Pegalayan",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820610,
+    "gn:latitude":4.78333,
+    "gn:longitude":114.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Pegalayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Pengkalan Batu",
+        "Kampong Pagalan",
+        "Kampong Pegalayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820610
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"b1c69ba789eb8f91271b51d6506da3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209825643,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209825643,
+    "wof:lastmodified":1537587892,
+    "wof:name":"Kampong Pegalayan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.83333,
+    4.78333,
+    114.83333,
+    4.78333
+],
+  "geometry": {"coordinates":[114.83333,4.78333],"type":"Point"}
+}

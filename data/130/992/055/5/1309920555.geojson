@@ -1,0 +1,65 @@
+{
+  "id": 1309920555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.71667,4.68333,114.71667,4.68333",
+    "geom:latitude":4.68333,
+    "geom:longitude":114.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Abang",
+    "gn:country_code":"BN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820731,
+    "gn:latitude":4.68333,
+    "gn:longitude":114.71667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Abang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820731
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"a52fa9a5b91040be5639278b9f1a3d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1309920555,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1309920555,
+    "wof:lastmodified":1536765965,
+    "wof:name":"Kampong Abang",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.71667,
+    4.68333,
+    114.71667,
+    4.68333
+],
+  "geometry": {"coordinates":[114.71666999999999,4.68333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360199119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.85,4.88333,114.85,4.88333",
+    "geom:latitude":4.88333,
+    "geom:longitude":114.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Mengawang",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820636,
+    "gn:latitude":4.88333,
+    "gn:longitude":114.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Mengawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Mongawang",
+        "Kampong Mengawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820636
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"297bd7ab9e6842195832026179f6bdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1360199119,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1360199119,
+    "wof:lastmodified":1537587893,
+    "wof:name":"Kampong Mengawang",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.85,
+    4.88333,
+    114.85,
+    4.88333
+],
+  "geometry": {"coordinates":[114.84999999999999,4.88333],"type":"Point"}
+}

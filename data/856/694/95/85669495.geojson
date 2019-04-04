@@ -1,0 +1,310 @@
+{
+  "id": 85669495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.088147,
+    "geom:area_square_m":1086431766.870649,
+    "geom:bbox":"114.494443853,4.30023952863,114.847904094,4.89876556468",
+    "geom:latitude":4.604445,
+    "geom:longitude":114.687965,
+    "gn:population":41426,
+    "iso:country":"BN",
+    "label:eng_x_preferred_longname":[
+        "Tutong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":4.603353,
+    "lbl:longitude":114.685293,
+    "mps:latitude":4.603353,
+    "mps:longitude":114.685293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ace_x_preferred":[
+        "Wilayah Tutong"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0648\u062a\u0648\u0646\u063a"
+    ],
+    "name:baq_x_preferred":[
+        "Tutong barrutia"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09a4\u0982 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0442\u043e\u043d\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Tutong"
+    ],
+    "name:chi_x_preferred":[
+        "\u90fd\u4e1c\u53bf"
+    ],
+    "name:dan_x_preferred":[
+        "Tutong District"
+    ],
+    "name:dut_x_preferred":[
+        "Tutong"
+    ],
+    "name:eng_x_preferred":[
+        "Tutong"
+    ],
+    "name:eng_x_variant":[
+        "Daerah Tutong",
+        "Tutong District"
+    ],
+    "name:fin_x_preferred":[
+        "Tutong"
+    ],
+    "name:fre_x_preferred":[
+        "Tutong"
+    ],
+    "name:ger_x_preferred":[
+        "Tutong"
+    ],
+    "name:glg_x_preferred":[
+        "Tutong"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03c4\u03cc\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0ac1\u0a9f\u0ac9\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05d8\u05d5\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0942\u091f\u094b\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Tutong"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Tutong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30c8\u30f3\u5730\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cc1\u0c9f\u0cca\u0c82\u0c97\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\ud1b5 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Tutonas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Tutongo rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u0941\u091f\u094b\u0902\u0917 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Daerah Tutong"
+    ],
+    "name:nob_x_preferred":[
+        "Tutong"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0648\u062a\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Tutong"
+    ],
+    "name:por_x_preferred":[
+        "Tutong"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u0648\u062a\u0646\u06af \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0442\u043e\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dd4\u0da7\u0ddc\u0db1\u0dca\u0d9c\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Tutong"
+    ],
+    "name:swe_x_preferred":[
+        "Tutong District"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc1\u0b9f\u0bcb\u0b99\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c2f\u0c41\u0c1f\u0c3e\u0c02\u0c17\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e39\u0e15\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Tutong District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0442\u043e\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Tutong District"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u062a\u0646\u06af \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Tutong"
+    ],
+    "name:war_x_preferred":[
+        "Tutong"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BRN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BRN-1184",
+    "ne:adm1_code":"BRN-1184",
+    "ne:admin":"Brunei",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BN.TU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1184",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BX04",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Brunei",
+    "ne:gn_a1_code":"BN.04",
+    "ne:gn_id":"1820068",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Tutong District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BX04",
+    "ne:gns_id":"-1338014",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Tutong District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BRN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BN-",
+    "ne:iso_a2":"BN",
+    "ne:labelrank":"9",
+    "ne:latitude":"4.64496000000",
+    "ne:longitude":"114.67100000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":6,
+    "ne:name":"Tutong",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"TU",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"BRN",
+    "ne:sub_code":"",
+    "ne:type":"Daerah-Daerah",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":20069848,
+    "ne:woe_label":"Tutong, BN, Brunei",
+    "ne:woe_name":"Tutong",
+    "qs:a0":"Brunei",
+    "qs:a0_lc":"BN",
+    "qs:a1":"Tutong",
+    "qs:a1_lc":"BRN-1184",
+    "qs:adm0":"Brunei",
+    "qs:adm0_a3":"BRN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-06-20",
+    "statoids:area_km":"1,303",
+    "statoids:area_mi":"503",
+    "statoids:as_of_date":"2011-06-20",
+    "statoids:capital":"Tutong",
+    "statoids:country":"BN",
+    "statoids:gec":"BX04",
+    "statoids:hasc":"BN.TU",
+    "statoids:iso":"TU",
+    "statoids:name":"Tutong",
+    "statoids:population":"43852",
+    "statoids:timezone":"+8",
+    "statoids:type":"district",
+    "unlc:subdivision":"BN-TU",
+    "wof:belongsto":[
+        102191569,
+        85632749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BX04",
+        "gn:id":1820068,
+        "gp:id":20069848,
+        "hasc:id":"BN.TU",
+        "iso:id":"BN-TU",
+        "qs:id":339447,
+        "unlc:id":"BN-TU",
+        "wd:id":"Q40398",
+        "wk:page":"Tutong District"
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"963a55236f5abb3cf8829e26dc8f7306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":85669495,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "msa"
+    ],
+    "wof:lang_x_spoken":[
+        "msa"
+    ],
+    "wof:lastmodified":1553550318,
+    "wof:name":"Tutong",
+    "wof:parent_id":85632749,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":43852,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"TU",
+    "wof:subdivision":"BN-TU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.49444385320135,
+    4.30023952863138,
+    114.84790409389882,
+    4.89876556467914
+],
+  "geometry": {"coordinates":[[[114.74319203418509,4.73058520864049],[114.74196740846924,4.72945404047164],[114.74134728994557,4.71294342030268],[114.74878869694089,4.6943915810067],[114.76811568349206,4.65749460888912],[114.77390344229013,4.63682403610045],[114.77731408697559,4.61465484744332],[114.78217167248476,4.49778859506768],[114.78816613775712,4.4612016804133],[114.80604618348468,4.43332224642461],[114.82568322749898,4.42619089869106],[114.84046268780287,4.42861969144565],[114.84790409389882,4.42373626841413],[114.84563033077518,4.39510752469255],[114.836431925493,4.3572286988454],[114.82899051939705,4.34048553557903],[114.81824182140303,4.32345815147255],[114.7941632497342,4.30023952863138],[114.79385135315749,4.30040965428219],[114.79157759003385,4.30164988953084],[114.75814293764654,4.32002085987483],[114.73948774556311,4.3460657821102],[114.73168460516047,4.37660655374953],[114.71602664571321,4.40580373825196],[114.69675133690475,4.42960073488604],[114.67251508979962,4.45308767315765],[114.65096601786752,4.48016612416734],[114.62797000511171,4.50303294481461],[114.59680911674741,4.52233409294411],[114.59081465057568,4.54731964798344],[114.59551720555464,4.57773122841348],[114.58249474533625,4.59804006599632],[114.55944705573711,4.59940949155487],[114.54105024607202,4.60181244498841],[114.52813113774187,4.61865896194161],[114.51278323755639,4.63431692138886],[114.50291303870586,4.65720958135717],[114.49444385320135,4.68124864311045],[114.49447675939496,4.6812604844838],[114.52930748785036,4.69379303631962],[114.55030358194483,4.71442291928236],[114.56568444138395,4.74335358340119],[114.60181725416305,4.77997467768927],[114.72266686288549,4.87604401242129],[114.7601831387409,4.89874909089787],[114.76021035762199,4.89876556467914],[114.76176028880639,4.875180772075],[114.75964155531358,4.84776642518045],[114.75576582173539,4.82218659093849],[114.74703250534594,4.80203278208728],[114.74372521434725,4.78004446058344],[114.73618045456442,4.74782420502311],[114.74305341987952,4.73092601212579],[114.74319203418509,4.73058520864049]]],"type":"Polygon"}
+}

@@ -1,0 +1,145 @@
+{
+  "id": 421204323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.186401,4.5845645,114.186401,4.5845645",
+    "geom:latitude":4.584564,
+    "geom:longitude":114.186401,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:deu_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:eng_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:eus_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:fra_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d0\u05dc\u05d4 \u05d1\u05dc\u05d9\u05d9\u05d8"
+    ],
+    "name:ita_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a2\u30e9\u30d6\u30e9\u30a4\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc54c\ub77c\ube14\ub77c\uc787"
+    ],
+    "name:lit_x_preferred":[
+        "Kvala Belaitas"
+    ],
+    "name:nau_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:nld_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:pol_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:por_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u0411\u0435\u043b\u0430\u0439\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:swe_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:war_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u6765\u5955"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kuala Belait",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Belait",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":189,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":239149,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049523,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.BE",
+    "statoids:name":"Kuala Belait",
+    "statoids:population":"",
+    "statoids:statoid":"BN.BE.BT",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":2100,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049523,
+        "hasc:id":"BN.BE.BT",
+        "qs:id":239149,
+        "wd:id":"Q588045"
+    },
+    "wof:country":"BN",
+    "wof:created":1459010181,
+    "wof:geomhash":"0c0ed80081778bb74cd971ac15c7ee7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421204323,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":421204323,
+    "wof:lastmodified":1536616165,
+    "wof:name":"Kuala Belait",
+    "wof:parent_id":85669485,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"BT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.186401,
+    4.5845645,
+    114.186401,
+    4.5845645
+],
+  "geometry": {"coordinates":[114.186401,4.5845645],"type":"Point"}
+}

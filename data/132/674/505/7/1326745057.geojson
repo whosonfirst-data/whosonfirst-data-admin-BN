@@ -1,0 +1,70 @@
+{
+  "id": 1326745057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.96667,4.88333,114.96667,4.88333",
+    "geom:latitude":4.88333,
+    "geom:longitude":114.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Buang Tawar",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820698,
+    "gn:latitude":4.88333,
+    "gn:longitude":114.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Buang Tawar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buang Tawar",
+        "Kampong Buang Tawar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820698
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"54ed8748386af0902b156c380a94c858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1326745057,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1326745057,
+    "wof:lastmodified":1537587895,
+    "wof:name":"Kampong Buang Tawar",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.96667,
+    4.88333,
+    114.96667,
+    4.88333
+],
+  "geometry": {"coordinates":[114.96666999999999,4.88333],"type":"Point"}
+}

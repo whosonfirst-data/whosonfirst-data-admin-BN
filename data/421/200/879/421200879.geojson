@@ -1,0 +1,72 @@
+{
+  "id": 421200879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.95,4.93333,114.95,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":114.95,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1820710,
+    "qs:gn_pop":0,
+    "qs:name":"Kampong Berakas",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":883,
+    "qs:photos_1k":179,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":883,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898565,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020533,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820710,
+        "gp:id":1020533,
+        "qs:id":898565
+    },
+    "wof:country":"BN",
+    "wof:created":1459010044,
+    "wof:geomhash":"dff2bcc9734687be19be69b8d0051b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421200879,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421200879,
+    "wof:lastmodified":1466635891,
+    "wof:name":"Kampong Berakas",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.95,
+    4.93333,
+    114.95,
+    4.93333
+],
+  "geometry": {"coordinates":[114.95,4.93333],"type":"Point"}
+}

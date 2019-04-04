@@ -1,0 +1,65 @@
+{
+  "id": 1326644443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.45,4.53333,114.45,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":114.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bukit Puan",
+    "gn:country_code":"BN",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820804,
+    "gn:latitude":4.53333,
+    "gn:longitude":114.45,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Bukit Puan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820804
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"46794cd6f8ea6b152f553b8855c5a127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1326644443,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":1326644443,
+    "wof:lastmodified":1536821302,
+    "wof:name":"Bukit Puan",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.45,
+    4.53333,
+    114.45,
+    4.53333
+],
+  "geometry": {"coordinates":[114.45,4.53333],"type":"Point"}
+}

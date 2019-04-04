@@ -1,0 +1,61 @@
+{
+  "id": 1209120677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.61667,4.75,114.61667,4.75",
+    "geom:latitude":4.75,
+    "geom:longitude":114.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Perupok",
+    "gn:country_code":"BN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820598,
+    "gn:latitude":4.75,
+    "gn:longitude":114.61667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Perupok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820598
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"321e3ea642b847c0c1f97ccbaf6ba031",
+    "wof:hierarchy":[
+        {
+            "country_id":85632749,
+            "locality_id":1209120677
+        }
+    ],
+    "wof:id":1209120677,
+    "wof:lastmodified":1536297109,
+    "wof:name":"Kampong Perupok",
+    "wof:parent_id":85632749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.61667,
+    4.75,
+    114.61667,
+    4.75
+],
+  "geometry": {"coordinates":[114.61667,4.75],"type":"Point"}
+}

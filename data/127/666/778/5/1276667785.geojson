@@ -1,0 +1,72 @@
+{
+  "id": 1276667785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9878,4.97877,114.9878,4.97877",
+    "geom:latitude":4.97877,
+    "geom:longitude":114.9878,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11821303.0",
+    "gn:asciiname":"Salambigar",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820582,
+    "gn:latitude":4.97877,
+    "gn:longitude":114.9878,
+    "gn:modification_date":"2018-08-01",
+    "gn:name":"Salambigar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Salambigar"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Salambigar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820582
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"e006c2a640e1c6a73134a6c9d615763e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1276667785,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1276667785,
+    "wof:lastmodified":1537587891,
+    "wof:name":"Salambigar",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9878,
+    4.97877,
+    114.9878,
+    4.97877
+],
+  "geometry": {"coordinates":[114.98779999999999,4.97877],"type":"Point"}
+}

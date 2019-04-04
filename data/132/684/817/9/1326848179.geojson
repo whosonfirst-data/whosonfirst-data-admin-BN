@@ -1,0 +1,73 @@
+{
+  "id": 1326848179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.31667,4.45,114.31667,4.45",
+    "geom:latitude":4.45,
+    "geom:longitude":114.31667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuala Balai",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820492,
+    "gn:latitude":4.45,
+    "gn:longitude":114.31667,
+    "gn:modification_date":"2014-10-06",
+    "gn:name":"Kuala Balai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belait",
+        "Kwala Balai",
+        "Kampong Kuala Balai",
+        "Kuala Balai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820492,
+        "wk:page":"Kuala_Balai%2C_Belait"
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"eae9bf77db19bee9e22e8192237beda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1326848179,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":1326848179,
+    "wof:lastmodified":1537587890,
+    "wof:name":"Kuala Balai",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.31667,
+    4.45,
+    114.31667,
+    4.45
+],
+  "geometry": {"coordinates":[114.31667,4.45],"type":"Point"}
+}

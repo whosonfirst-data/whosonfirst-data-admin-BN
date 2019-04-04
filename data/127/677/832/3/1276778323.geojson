@@ -1,0 +1,72 @@
+{
+  "id": 1276778323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.03333,4.63333,115.03333,4.63333",
+    "geom:latitude":4.63333,
+    "geom:longitude":115.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Kobong",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820660,
+    "gn:latitude":4.63333,
+    "gn:longitude":115.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Kobong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kubong",
+        "Kampong Kobong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        85675177,
+        1108696449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820660
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"b70d56ad13cdf5df1f36b1b046864d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696449,
+            "locality_id":1276778323,
+            "region_id":85675177
+        }
+    ],
+    "wof:id":1276778323,
+    "wof:lastmodified":1537587894,
+    "wof:name":"Kampong Kobong",
+    "wof:parent_id":1108696449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.03333,
+    4.63333,
+    115.03333,
+    4.63333
+],
+  "geometry": {"coordinates":[115.03333000000001,4.63333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327446273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.85,4.88333,114.85,4.88333",
+    "geom:latitude":4.88333,
+    "geom:longitude":114.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Batu Lapan",
+    "gn:country_code":"BN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820717,
+    "gn:latitude":4.88333,
+    "gn:longitude":114.85,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Batu Lapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820717
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"297bd7ab9e6842195832026179f6bdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1327446273,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1327446273,
+    "wof:lastmodified":1536660704,
+    "wof:name":"Kampong Batu Lapan",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.85,
+    4.88333,
+    114.85,
+    4.88333
+],
+  "geometry": {"coordinates":[114.84999999999999,4.88333],"type":"Point"}
+}

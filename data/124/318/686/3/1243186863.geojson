@@ -1,0 +1,73 @@
+{
+  "id": 1243186863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.66491,4.80546,114.66491,4.80546",
+    "geom:latitude":4.80546,
+    "geom:longitude":114.66491,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Panchor Dulit",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820624,
+    "gn:latitude":4.80546,
+    "gn:longitude":114.66491,
+    "gn:modification_date":"2018-04-05",
+    "gn:name":"Panchor Dulit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Panchor Dulit"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Panchur Dulit",
+        "Kampong Panchor Dulit",
+        "Kampung Panchur Dulit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820624
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"5b529455f3224cca48b5b60e6886ac58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1243186863,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1243186863,
+    "wof:lastmodified":1537587892,
+    "wof:name":"Panchor Dulit",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.66491,
+    4.80546,
+    114.66491,
+    4.80546
+],
+  "geometry": {"coordinates":[114.66491000000001,4.80546],"type":"Point"}
+}

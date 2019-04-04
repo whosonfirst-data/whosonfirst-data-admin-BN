@@ -1,0 +1,97 @@
+{
+  "id": 421195157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.85,4.95,114.85,4.95",
+    "geom:latitude":4.95,
+    "geom:longitude":114.85,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Jerudong"
+    ],
+    "name:eng_x_preferred":[
+        "Jerudong"
+    ],
+    "name:fre_x_preferred":[
+        "Jerudong"
+    ],
+    "name:ger_x_preferred":[
+        "Jerudong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30eb\u30c9\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Jerudong"
+    ],
+    "name:unk_x_variant":[
+        "Jerudong"
+    ],
+    "qs:gn_country":"BN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1820680,
+    "qs:gn_pop":0,
+    "qs:name":"Kampong Jerudong",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":852,
+    "qs:photos_1k":173,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":852,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":279244,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020563,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820680,
+        "gp:id":1020563,
+        "qs:id":279244,
+        "wd:id":"Q126385",
+        "wk:page":"Jerudong"
+    },
+    "wof:country":"BN",
+    "wof:created":1459009834,
+    "wof:geomhash":"dd46c5e0f639188017b479241af8417a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421195157,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421195157,
+    "wof:lastmodified":1513900130,
+    "wof:name":"Kampong Jerudong",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.85,
+    4.95,
+    114.85,
+    4.95
+],
+  "geometry": {"coordinates":[114.84999999999999,4.95],"type":"Point"}
+}

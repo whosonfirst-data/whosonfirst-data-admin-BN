@@ -1,0 +1,70 @@
+{
+  "id": 1277089213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.55,4.48333,114.55,4.48333",
+    "geom:latitude":4.48333,
+    "geom:longitude":114.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pangkalan Siong",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820313,
+    "gn:latitude":4.48333,
+    "gn:longitude":114.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pangkalan Siong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pengkalan Siong",
+        "Pangkalan Siong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820313
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"a559ea557d052aa251303d4d8b412cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1277089213,
+            "region_id":85669485
+        }
+    ],
+    "wof:id":1277089213,
+    "wof:lastmodified":1537587890,
+    "wof:name":"Pangkalan Siong",
+    "wof:parent_id":85669485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.55,
+    4.48333,
+    114.55,
+    4.48333
+],
+  "geometry": {"coordinates":[114.55,4.48333],"type":"Point"}
+}

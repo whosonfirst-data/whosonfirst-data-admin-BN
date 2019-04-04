@@ -1,0 +1,72 @@
+{
+  "id": 421185721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.91667,4.91667,114.91667,4.91667",
+    "geom:latitude":4.91667,
+    "geom:longitude":114.91667,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1820684,
+    "qs:gn_pop":0,
+    "qs:name":"Kampong Gadong",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":1631,
+    "qs:photos_1k":330,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1631,
+    "qs:photos_sr":13,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1039621,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020559,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820684,
+        "gp:id":1020559,
+        "qs:id":1039621
+    },
+    "wof:country":"BN",
+    "wof:created":1459009452,
+    "wof:geomhash":"edc7c25157b2322d27b9d7eb2ba33db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421185721,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421185721,
+    "wof:lastmodified":1466635861,
+    "wof:name":"Kampong Gadong",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.91667,
+    4.91667,
+    114.91667,
+    4.91667
+],
+  "geometry": {"coordinates":[114.91667,4.91667],"type":"Point"}
+}

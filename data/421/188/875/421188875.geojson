@@ -1,0 +1,71 @@
+{
+  "id": 421188875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"114.889502,4.860833,114.889502,4.860833",
+    "geom:latitude":4.860833,
+    "geom:longitude":114.889502,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kilanas",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":231,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":231,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104824,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020728,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1020728,
+        "qs:id":1104824
+    },
+    "wof:country":"BN",
+    "wof:created":1459009586,
+    "wof:geomhash":"9d5091cbf84bbcae2b7a30cdcf947fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421188875,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421188875,
+    "wof:lastmodified":1466635868,
+    "wof:name":"Kilanas",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.889502,
+    4.860833,
+    114.889502,
+    4.860833
+],
+  "geometry": {"coordinates":[114.88950199999999,4.860833],"type":"Point"}
+}

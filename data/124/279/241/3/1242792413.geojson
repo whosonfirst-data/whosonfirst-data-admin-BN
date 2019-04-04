@@ -1,0 +1,67 @@
+{
+  "id": 1242792413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.61667,4.8,114.61667,4.8",
+    "geom:latitude":4.8,
+    "geom:longitude":114.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Penabai",
+    "gn:cc2":"BN",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820607,
+    "gn:latitude":4.8,
+    "gn:longitude":114.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kampong Penabai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampong Lubok Johar",
+        "Kampong Lubok Johor",
+        "Kampong Penabai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820607
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"c48a282b44b1f8c0e14e43950ef2448d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242792413,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242792413,
+    "wof:lastmodified":1537587892,
+    "wof:name":"Kampong Penabai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.61667,
+    4.8,
+    114.61667,
+    4.8
+],
+  "geometry": {"coordinates":[114.61667,4.8],"type":"Point"}
+}

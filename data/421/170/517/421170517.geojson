@@ -1,0 +1,112 @@
+{
+  "id": 421170517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.131911,4.570675,115.131911,4.570675",
+    "geom:latitude":4.570675,
+    "geom:longitude":115.131911,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Bokok"
+    ],
+    "name:eus_x_preferred":[
+        "Bokok"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u06a9"
+    ],
+    "name:ita_x_preferred":[
+        "Mukim di Bukok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30b3\u30af\u90e1"
+    ],
+    "name:por_x_preferred":[
+        "Bokok"
+    ],
+    "name:spa_x_preferred":[
+        "Bokok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043a\u043e\u043a"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bukok",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Temburong",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1191477,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049553,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.TE",
+    "statoids:name":"Bokok",
+    "statoids:population":"",
+    "statoids:statoid":"BN.TE.BO",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049553,
+        "hasc:id":"BN.TE.BO",
+        "qs:id":1191477,
+        "wd:id":"Q2491114"
+    },
+    "wof:country":"BN",
+    "wof:created":1459008856,
+    "wof:geomhash":"1188a3577997d26eba4c2e18adc64797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421170517,
+            "region_id":85669491
+        }
+    ],
+    "wof:id":421170517,
+    "wof:lastmodified":1536615910,
+    "wof:name":"Bukok",
+    "wof:parent_id":85669491,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"BO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.131911,
+    4.570675,
+    115.131911,
+    4.570675
+],
+  "geometry": {"coordinates":[115.131911,4.570675],"type":"Point"}
+}

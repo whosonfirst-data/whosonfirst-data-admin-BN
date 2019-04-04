@@ -1,0 +1,72 @@
+{
+  "id": 1310115697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.96588,4.89311,114.96588,4.89311",
+    "geom:latitude":4.89311,
+    "geom:longitude":114.96588,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11821306.0",
+    "gn:asciiname":"Subok",
+    "gn:country_code":"BN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820566,
+    "gn:latitude":4.89311,
+    "gn:longitude":114.96588,
+    "gn:modification_date":"2018-04-21",
+    "gn:name":"Subok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Subok"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Subok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820566
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"6723103ea5b7f344dd198072044a0797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1310115697,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1310115697,
+    "wof:lastmodified":1537587891,
+    "wof:name":"Subok",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.96588,
+    4.89311,
+    114.96588,
+    4.89311
+],
+  "geometry": {"coordinates":[114.96588,4.89311],"type":"Point"}
+}

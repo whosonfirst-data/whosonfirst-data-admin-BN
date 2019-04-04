@@ -1,0 +1,65 @@
+{
+  "id": 1343468873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.71667,4.7,114.71667,4.7",
+    "geom:latitude":4.7,
+    "geom:longitude":114.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Bukit Kota",
+    "gn:country_code":"BN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820695,
+    "gn:latitude":4.7,
+    "gn:longitude":114.71667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Bukit Kota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820695
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"bc405fe2ea840861b596d6711e7edb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1343468873,
+            "region_id":85669495
+        }
+    ],
+    "wof:id":1343468873,
+    "wof:lastmodified":1536734075,
+    "wof:name":"Kampong Bukit Kota",
+    "wof:parent_id":85669495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.71667,
+    4.7,
+    114.71667,
+    4.7
+],
+  "geometry": {"coordinates":[114.71666999999999,4.7],"type":"Point"}
+}

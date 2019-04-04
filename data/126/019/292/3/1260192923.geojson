@@ -1,0 +1,65 @@
+{
+  "id": 1260192923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.01667,4.93333,115.01667,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":115.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kampong Sungai Besar",
+    "gn:country_code":"BN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820563,
+    "gn:latitude":4.93333,
+    "gn:longitude":115.01667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Kampong Sungai Besar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820563
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"482262a2694157bf2f6679c90742ddf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1260192923,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1260192923,
+    "wof:lastmodified":1536833892,
+    "wof:name":"Kampong Sungai Besar",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.01667,
+    4.93333,
+    115.01667,
+    4.93333
+],
+  "geometry": {"coordinates":[115.01667,4.93333],"type":"Point"}
+}

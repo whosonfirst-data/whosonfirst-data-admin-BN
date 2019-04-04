@@ -1,0 +1,120 @@
+{
+  "id": 421187441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.06667,5.03333,115.06667,5.03333",
+    "geom:latitude":5.03333,
+    "geom:longitude":115.06667,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6469\u62c9"
+    ],
+    "name:deu_x_preferred":[
+        "Muara"
+    ],
+    "name:dut_x_preferred":[
+        "Muara"
+    ],
+    "name:eng_x_preferred":[
+        "Muara"
+    ],
+    "name:ger_x_preferred":[
+        "Muara"
+    ],
+    "name:ind_x_preferred":[
+        "Muara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a2\u30e9"
+    ],
+    "name:lit_x_preferred":[
+        "Muara"
+    ],
+    "name:may_x_preferred":[
+        "Pekan Muara"
+    ],
+    "name:pol_x_preferred":[
+        "Muara"
+    ],
+    "name:por_x_preferred":[
+        "Muara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Muara"
+    ],
+    "name:unk_x_variant":[
+        "Brooketon"
+    ],
+    "qs:gn_country":"BN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1820363,
+    "qs:gn_pop":0,
+    "qs:name":"Muara",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":495,
+    "qs:photos_1k":100,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":495,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083518,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":1020732,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1360,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820363,
+        "gp:id":1020732,
+        "loc:id":"n94122899",
+        "qs:id":1083518,
+        "wd:id":"Q2982479",
+        "wk:page":"Muara, Brunei"
+    },
+    "wof:country":"BN",
+    "wof:created":1459009513,
+    "wof:geomhash":"5da8eac241c843ca8c26f12c268ec8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":421187441,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421187441,
+    "wof:lastmodified":1553816376,
+    "wof:name":"Muara",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.06667,
+    5.03333,
+    115.06667,
+    5.03333
+],
+  "geometry": {"coordinates":[115.06667,5.03333],"type":"Point"}
+}

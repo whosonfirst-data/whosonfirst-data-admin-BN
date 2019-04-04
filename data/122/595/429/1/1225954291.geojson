@@ -1,0 +1,72 @@
+{
+  "id": 1225954291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.85343,4.81032,114.85343,4.81032",
+    "geom:latitude":4.81032,
+    "geom:longitude":114.85343,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"11821310.0",
+    "gn:asciiname":"Junjongan",
+    "gn:country_code":"BN",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1820679,
+    "gn:latitude":4.81032,
+    "gn:longitude":114.85343,
+    "gn:modification_date":"2018-07-14",
+    "gn:name":"Junjongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Brunei",
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Junjongan"
+    ],
+    "name:msa_x_variant":[
+        "Kampong Junjongan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1820679
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"15bb6f40ad7391e7f0598cfd1ff57f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "locality_id":1225954291,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":1225954291,
+    "wof:lastmodified":1537587894,
+    "wof:name":"Junjongan",
+    "wof:parent_id":85669487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.85343,
+    4.81032,
+    114.85343,
+    4.81032
+],
+  "geometry": {"coordinates":[114.85343,4.81032],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 421175671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.0222685,5.011433,115.0222685,5.011433",
+    "geom:latitude":5.011433,
+    "geom:longitude":115.022268,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mentiri"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mentiri",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":84,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1026937,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049547,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.BM",
+    "statoids:name":"Mentiri",
+    "statoids:population":"",
+    "statoids:statoid":"BN.BM.ME",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049547,
+        "hasc:id":"BN.BM.ME",
+        "qs:id":1026937,
+        "wd:id":"Q2365615"
+    },
+    "wof:country":"BN",
+    "wof:created":1459009075,
+    "wof:geomhash":"47422a70d5fb2ec6651d5c723e8bc56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421175671,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421175671,
+    "wof:lastmodified":1536615954,
+    "wof:name":"Mentiri",
+    "wof:parent_id":85669487,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"ME",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.0222685,
+    5.011433,
+    115.0222685,
+    5.011433
+],
+  "geometry": {"coordinates":[115.0222685,5.011433],"type":"Point"}
+}

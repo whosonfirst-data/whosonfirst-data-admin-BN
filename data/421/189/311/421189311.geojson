@@ -1,0 +1,91 @@
+{
+  "id": 421189311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.864807,4.950037,114.864807,4.950037",
+    "geom:latitude":4.950037,
+    "geom:longitude":114.864807,
+    "iso:country":"BN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sengkurong"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sengkurong",
+    "qs:name_adm0":"Brunei",
+    "qs:name_adm1":"Brunei-Muara",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1636,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1112147,
+    "qs:woe_adm0":23424773,
+    "qs:woe_id":56049533,
+    "src:geom":"quattroshapes",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"BN",
+    "statoids:hasc":"BN.BM",
+    "statoids:name":"Sengkurong",
+    "statoids:population":"",
+    "statoids:statoid":"BN.BM.SN",
+    "statoids:timezone":"8",
+    "statoids:type":"mukim",
+    "wd:wordcount":224,
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56049533,
+        "hasc:id":"BN.BM.SN",
+        "qs:id":1112147,
+        "wd:id":"Q2490410"
+    },
+    "wof:country":"BN",
+    "wof:created":1459009617,
+    "wof:geomhash":"96f4c3d5d45d3f2d29b3424540f10ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421189311,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":421189311,
+    "wof:lastmodified":1536616076,
+    "wof:name":"Sengkurong",
+    "wof:parent_id":85669487,
+    "wof:placetype":"county",
+    "wof:placetype_local":"mukim",
+    "wof:repo":"whosonfirst-data-admin-bn",
+    "wof:shortcode":"SN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.864807,
+    4.950037,
+    114.864807,
+    4.950037
+],
+  "geometry": {"coordinates":[114.864807,4.950037],"type":"Point"}
+}
