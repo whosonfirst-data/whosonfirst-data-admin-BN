@@ -10,6 +10,12 @@
     "geom:latitude":4.904587,
     "geom:longitude":114.916906,
     "iso:country":"BN",
+    "label:eng_x_preferred_longname":[
+        "Gadong Mukim"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "mukim"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":421198773,
-    "wof:lastmodified":1536616127,
+    "wof:lastmodified":1554489024,
     "wof:name":"Gadong",
     "wof:parent_id":85669487,
     "wof:placetype":"county",
