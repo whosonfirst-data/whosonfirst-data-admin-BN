@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0644\u0627\u064a\u062a"
     ],
-    "name:baq_x_preferred":[
-        "Belait barrutia"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u09be\u09a4\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -43,14 +40,14 @@
     "name:cat_x_preferred":[
         "Districte de Belait"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u6765\u5955\u53bf"
-    ],
     "name:dan_x_preferred":[
         "Belait District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Belait"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb\u03ac\u03b9\u03c4"
     ],
     "name:eng_x_preferred":[
         "Belait"
@@ -59,20 +56,20 @@
         "Belait District",
         "Daerah Belait"
     ],
+    "name:eus_x_preferred":[
+        "Belait barrutia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u0627\u0626\u06cc\u062a"
+    ],
     "name:fin_x_preferred":[
         "Belait"
     ],
-    "name:fre_x_preferred":[
-        "Belait"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Belait"
     ],
     "name:glg_x_preferred":[
         "Belait"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bb\u03ac\u03b9\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab2\u0ac7\u0a9f\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -107,14 +104,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0932\u0947\u091f \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Belait"
+    ],
+    "name:nld_x_preferred":[
+        "Belait"
     ],
     "name:nob_x_preferred":[
         "Belait distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u0627\u0626\u06cc\u062a"
     ],
     "name:pol_x_preferred":[
         "Dystrykt Belait"
@@ -163,6 +160,9 @@
     ],
     "name:war_x_preferred":[
         "Belait"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u6765\u5955\u53bf"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BRN",
@@ -285,7 +285,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1553550318,
+    "wof:lastmodified":1561840398,
     "wof:name":"Belait",
     "wof:parent_id":85632749,
     "wof:placetype":"region",
