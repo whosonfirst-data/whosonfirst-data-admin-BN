@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Bangar"
     ],
-    "name:chi_x_preferred":[
-        "\u90a6\u963f"
-    ],
-    "name:dut_x_preferred":[
-        "Bangar"
-    ],
     "name:eng_x_preferred":[
         "Bangar"
     ],
     "name:fra_x_preferred":[
-        "Bangar"
-    ],
-    "name:fre_x_preferred":[
         "Bangar"
     ],
     "name:heb_x_preferred":[
@@ -49,7 +40,7 @@
     "name:lit_x_preferred":[
         "Bangaras"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bangar"
     ],
     "name:nau_x_preferred":[
@@ -125,7 +116,7 @@
         }
     ],
     "wof:id":421203819,
-    "wof:lastmodified":1527716191,
+    "wof:lastmodified":1561840398,
     "wof:name":"Bangar",
     "wof:parent_id":85669491,
     "wof:placetype":"locality",

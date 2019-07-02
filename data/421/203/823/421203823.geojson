@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Seria"
     ],
-    "name:chi_x_preferred":[
-        "\u8cfd\u745e\u4e9e\u93ae"
-    ],
-    "name:dut_x_preferred":[
-        "Seria"
-    ],
     "name:eng_x_preferred":[
         "Seria"
     ],
@@ -29,9 +23,6 @@
         "Seria"
     ],
     "name:fra_x_preferred":[
-        "Seria"
-    ],
-    "name:fre_x_preferred":[
         "Seria"
     ],
     "name:ind_x_preferred":[
@@ -66,6 +57,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e2d\u0e40\u0e23\u0e35\u0e22"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cfd\u745e\u4e9e\u93ae"
     ],
     "qs:gn_country":"BN",
     "qs:gn_fcode":"PPL",
@@ -108,7 +102,7 @@
         }
     ],
     "wof:id":421203823,
-    "wof:lastmodified":1513900131,
+    "wof:lastmodified":1561840398,
     "wof:name":"Seria",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
