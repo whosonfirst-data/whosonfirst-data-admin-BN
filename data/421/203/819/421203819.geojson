@@ -55,8 +55,17 @@
     "name:por_x_preferred":[
         "Bangar"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0433\u0430\u0440"
+    ],
     "name:swe_x_preferred":[
         "Bangar"
+    ],
+    "name:tur_x_preferred":[
+        "Bangar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0491\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Temburong"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421203819,
-    "wof:lastmodified":1561840398,
+    "wof:lastmodified":1563377259,
     "wof:name":"Bangar",
     "wof:parent_id":85669491,
     "wof:placetype":"locality",
