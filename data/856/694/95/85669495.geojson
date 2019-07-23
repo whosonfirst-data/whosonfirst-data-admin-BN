@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0648\u062a\u0648\u0646\u063a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u062a\u0648\u062a\u0648\u0646\u063a"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09a4\u0982 \u099c\u09c7\u09b2\u09be"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Tutong"
+    ],
+    "name:ceb_x_preferred":[
+        "Tutong District"
     ],
     "name:dan_x_preferred":[
         "Tutong District"
@@ -95,6 +101,9 @@
     "name:kor_x_preferred":[
         "\ud22c\ud1b5 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud22c\ud1b5\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Tutonas distrikts"
     ],
@@ -106,6 +115,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Tutong"
+    ],
+    "name:nan_x_preferred":[
+        "Tutong"
     ],
     "name:nld_x_preferred":[
         "Tutong"
@@ -123,6 +135,9 @@
         "\u062a\u0648\u062a\u0646\u06af \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
     ],
     "name:rus_x_preferred":[
+        "\u0422\u0443\u0442\u043e\u043d\u0433"
+    ],
+    "name:sah_x_preferred":[
         "\u0422\u0443\u0442\u043e\u043d\u0433"
     ],
     "name:sin_x_preferred":[
@@ -285,7 +300,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561840398,
+    "wof:lastmodified":1563377235,
     "wof:name":"Tutong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",

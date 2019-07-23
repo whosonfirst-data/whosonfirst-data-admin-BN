@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u064a\u0645\u0628\u0648\u0631\u0648\u0646\u063a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0631\u064a\u0629 \u062a\u064a\u0645\u0628\u0648\u0631\u0648\u0646\u063a"
+    ],
+    "name:ast_x_preferred":[
+        "Temburong"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09ae\u09cd\u09ac\u09c1\u09b0\u09be\u0982 \u099c\u09c7\u09b2\u09be"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Temburong"
+    ],
+    "name:ceb_x_preferred":[
+        "Temburong District"
     ],
     "name:ces_x_preferred":[
         "Temburong"
@@ -71,6 +80,9 @@
     "name:fra_x_preferred":[
         "Temburong"
     ],
+    "name:frr_x_preferred":[
+        "Temburong"
+    ],
     "name:glg_x_preferred":[
         "Temburong"
     ],
@@ -98,6 +110,9 @@
     "name:kor_x_preferred":[
         "\ud15c\ubd80\ub871 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud2c8\ubd80\ub871\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Temburonas distrikts"
     ],
@@ -109,6 +124,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Temburong"
+    ],
+    "name:nan_x_preferred":[
+        "Temburong"
     ],
     "name:nld_x_preferred":[
         "Temburong"
@@ -288,7 +306,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1561840398,
+    "wof:lastmodified":1563377236,
     "wof:name":"Temburong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",

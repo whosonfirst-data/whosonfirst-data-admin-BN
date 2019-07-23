@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Lumut"
+    ],
     "name:eng_x_preferred":[
         "Lumut"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421188877,
-    "wof:lastmodified":1561840398,
+    "wof:lastmodified":1563377261,
     "wof:name":"Lumut",
     "wof:parent_id":85669485,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Kuala Belait"
+    ],
     "name:ceb_x_preferred":[
         "Kuala Belait"
     ],
@@ -37,6 +40,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d0\u05dc\u05d4 \u05d1\u05dc\u05d9\u05d9\u05d8"
     ],
+    "name:ind_x_preferred":[
+        "Kuala Belait"
+    ],
     "name:ita_x_preferred":[
         "Kuala Belait"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:lit_x_preferred":[
         "Kvala Belaitas"
+    ],
+    "name:msa_x_preferred":[
+        "Kuala Belait"
     ],
     "name:nau_x_preferred":[
         "Kuala Belait"
@@ -64,11 +73,23 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0430\u043b\u0430-\u0411\u0435\u043b\u0430\u0439\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0430\u043b\u0430 \u0411\u0435\u043b\u0430\u0439\u0442"
+    ],
     "name:spa_x_preferred":[
         "Kuala Belait"
     ],
     "name:swe_x_preferred":[
         "Kuala Belait"
+    ],
+    "name:tur_x_preferred":[
+        "Kuala Belait"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0430\u043b\u0430-\u0411\u0435\u043b\u0430\u0439\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0627\u0644\u0627 \u0628\u0644\u0627\u06cc\u062a"
     ],
     "name:war_x_preferred":[
         "Kuala Belait"
@@ -130,7 +151,7 @@
         }
     ],
     "wof:id":421204323,
-    "wof:lastmodified":1554489049,
+    "wof:lastmodified":1563377259,
     "wof:name":"Kuala Belait",
     "wof:parent_id":85669485,
     "wof:placetype":"county",
