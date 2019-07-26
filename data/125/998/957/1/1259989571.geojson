@@ -25,6 +25,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Pulaie"
+    ],
     "name:und_x_variant":[
         "Kampong Pulai",
         "Kampong Palait",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259989571,
-    "wof:lastmodified":1537587891,
+    "wof:lastmodified":1564113299,
     "wof:name":"Pulaie",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

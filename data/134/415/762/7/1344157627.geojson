@@ -26,6 +26,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Tanjong Maya"
+    ],
     "name:und_x_variant":[
         "Penulud",
         "Kampong Penulud",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344157627,
-    "wof:lastmodified":1537587891,
+    "wof:lastmodified":1564113274,
     "wof:name":"Kampong Tanjong Maya",
     "wof:parent_id":85669495,
     "wof:placetype":"locality",

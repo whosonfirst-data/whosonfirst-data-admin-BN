@@ -26,6 +26,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kiudang"
+    ],
     "name:und_x_variant":[
         "Kampong Kwidong",
         "Kampong Kuidang",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243091725,
-    "wof:lastmodified":1537587894,
+    "wof:lastmodified":1564113296,
     "wof:name":"Kampong Kiudang",
     "wof:parent_id":85669495,
     "wof:placetype":"locality",

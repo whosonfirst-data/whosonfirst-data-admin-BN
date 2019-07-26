@@ -26,6 +26,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mulaut"
+    ],
     "name:und_x_variant":[
         "Kampong Mulut",
         "Kampong Mulaut"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1260201283,
-    "wof:lastmodified":1537587893,
+    "wof:lastmodified":1564113289,
     "wof:name":"Kampong Mulaut",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

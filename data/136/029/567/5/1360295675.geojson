@@ -26,6 +26,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Kebia"
+    ],
     "name:und_x_variant":[
         "Kebia",
         "Kampong Kebia"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1360295675,
-    "wof:lastmodified":1537587894,
+    "wof:lastmodified":1564113292,
     "wof:name":"Kampong Kebia",
     "wof:parent_id":85669495,
     "wof:placetype":"locality",

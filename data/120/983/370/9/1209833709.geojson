@@ -26,6 +26,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Lugu"
+    ],
     "name:und_x_variant":[
         "Lugu",
         "Kampong Lagu",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209833709,
-    "wof:lastmodified":1537587893,
+    "wof:lastmodified":1564113285,
     "wof:name":"Kampong Lugu",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",
