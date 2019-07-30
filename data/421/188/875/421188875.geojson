@@ -5,12 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.889502,4.860833,114.889502,4.860833",
     "geom:latitude":4.860833,
     "geom:longitude":114.889502,
     "iso:country":"BN",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:msa_x_preferred":[
+        "Kampung Kilanas"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +47,7 @@
     },
     "wof:country":"BN",
     "wof:created":1459009586,
-    "wof:geomhash":"9d5091cbf84bbcae2b7a30cdcf947fac",
+    "wof:geomhash":"cb54e7e763e26f473ec1be14959e6e58",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":421188875,
-    "wof:lastmodified":1466635868,
+    "wof:lastmodified":1564113294,
     "wof:name":"Kilanas",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

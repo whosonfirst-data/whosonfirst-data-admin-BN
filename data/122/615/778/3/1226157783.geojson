@@ -26,6 +26,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Mungkom"
+    ],
     "name:und_x_variant":[
         "Kampong Mangkam",
         "Kampong Mungkom"
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226157783,
-    "wof:lastmodified":1537587893,
+    "wof:lastmodified":1564113304,
     "wof:name":"Kampong Mungkom",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"BN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Kampung Selayun"
+    ],
     "name:und_x_variant":[
         "Salayan",
         "Kampong Selayan",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343468677,
-    "wof:lastmodified":1537587891,
+    "wof:lastmodified":1564113275,
     "wof:name":"Kampong Selayun",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",
