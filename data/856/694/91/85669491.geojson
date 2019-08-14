@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TE"
+    ],
     "lbl:latitude":4.602584,
     "lbl:longitude":115.164098,
     "mps:latitude":4.602584,
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85669491,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563377236,
+    "wof:lastmodified":1565654292,
     "wof:name":"Temburong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",

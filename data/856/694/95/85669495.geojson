@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TU"
+    ],
     "lbl:latitude":4.603353,
     "lbl:longitude":114.685293,
     "mps:latitude":4.603353,
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85669495,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "msa"
     ],
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1563377235,
+    "wof:lastmodified":1565654292,
     "wof:name":"Tutong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",
