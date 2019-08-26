@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.391425,
     "lbl:longitude":114.501784,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.391425,
     "mps:longitude":114.501784,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
         "Belait District"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0b9f\u0bcd\u0bb2\u0bc8\u0b9f\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0bc6\u0b9f\u0bcd\u0bb2\u0bc8\u0b9f\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c32\u0c46\u0c2f\u0c3f\u0c1f\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -166,9 +167,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0439\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Belait District"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u0627\u0626\u062a \u0636\u0644\u0639"
@@ -252,9 +250,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-20",
+    "src:population_date":"2011-06-20",
     "statoids:area_km":"2,725",
     "statoids:area_mi":"1,052",
     "statoids:as_of_date":"2011-06-20",
@@ -279,7 +277,7 @@
         "gp:id":20069849,
         "hasc:id":"BN.BE",
         "iso:id":"BN-BE",
-        "qs:id":890280,
+        "qs_pg:id":890280,
         "unlc:id":"BN-BE",
         "wd:id":"Q40395",
         "wk:page":"Belait District"
@@ -300,11 +298,10 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1565654293,
+    "wof:lastmodified":1566615568,
     "wof:name":"Belait",
     "wof:parent_id":85632749,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":60744,
     "wof:population_rank":8,

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"114.95,4.88333,114.95,4.88333",
     "geom:latitude":4.88333,
     "geom:longitude":114.95,
     "iso:country":"BN",
+    "lbl:bbox":"114.93,4.86333,114.97,4.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"BN",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":1820659,
         "gp:id":1020584,
-        "qs:id":894708
+        "qs_pg:id":894708
     },
     "wof:country":"BN",
     "wof:created":1459009770,
-    "wof:geomhash":"eca719b9c59f8ada9b9dab099f0a8d63",
+    "wof:geomhash":"7b7037cfc8daf34080477904cb195453",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421193409,
-    "wof:lastmodified":1466635877,
+    "wof:lastmodified":1566615583,
     "wof:name":"Kampong Kota Batu",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

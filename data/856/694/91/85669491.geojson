@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.602584,
     "lbl:longitude":115.164098,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.602584,
     "mps:longitude":115.164098,
     "mz:hierarchy_label":1,
@@ -173,9 +174,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u0431\u0443\u0440\u043e\u043d\u0491"
     ],
-    "name:unk_x_variant":[
-        "Temburong District"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0645\u0628\u0648\u0631\u0648\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -258,9 +256,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-20",
+    "src:population_date":"2011-06-20",
     "statoids:area_km":"1,166",
     "statoids:area_mi":"450",
     "statoids:as_of_date":"2011-06-20",
@@ -285,7 +283,7 @@
         "gp:id":20069847,
         "hasc:id":"BN.TE",
         "iso:id":"BN-TE",
-        "qs:id":1085116,
+        "qs_pg:id":1085116,
         "unlc:id":"BN-TE",
         "wd:id":"Q263285",
         "wk:page":"Temburong District"
@@ -306,11 +304,10 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1565654292,
+    "wof:lastmodified":1566615568,
     "wof:name":"Temburong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":8852,
     "wof:population_rank":5,

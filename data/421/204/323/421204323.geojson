@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Kuala Belait"
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gp:id":56049523,
         "hasc:id":"BN.BE.BT",
-        "qs:id":239149,
+        "qs_pg:id":239149,
         "wd:id":"Q588045"
     },
     "wof:country":"BN",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":421204323,
-    "wof:lastmodified":1563377259,
+    "wof:lastmodified":1566615583,
     "wof:name":"Kuala Belait",
     "wof:parent_id":85669485,
     "wof:placetype":"county",

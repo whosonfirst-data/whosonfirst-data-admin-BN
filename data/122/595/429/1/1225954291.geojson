@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Brunei",
     "iso:country":"BN",
+    "lbl:bbox":"114.83343,4.79032,114.87343,4.83032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Junjongan"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225954291,
-    "wof:lastmodified":1537587894,
+    "wof:lastmodified":1566615590,
     "wof:name":"Junjongan",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",
