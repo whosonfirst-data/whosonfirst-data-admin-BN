@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Kilanas"
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gp:id":56049532,
         "hasc:id":"BN.BM.KL",
-        "qs:id":1112150,
+        "qs_pg:id":1112150,
         "wd:id":"Q2365651"
     },
     "wof:country":"BN",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421193111,
-    "wof:lastmodified":1563377258,
+    "wof:lastmodified":1566615583,
     "wof:name":"Kilanas",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

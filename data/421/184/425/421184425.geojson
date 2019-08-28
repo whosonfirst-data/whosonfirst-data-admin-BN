@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Rambai"
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gp:id":56049527,
         "hasc:id":"BN.TU.RA",
-        "qs:id":996367,
+        "qs_pg:id":996367,
         "wd:id":"Q2704145"
     },
     "wof:country":"BN",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421184425,
-    "wof:lastmodified":1563377266,
+    "wof:lastmodified":1566615585,
     "wof:name":"Rambai",
     "wof:parent_id":85669495,
     "wof:placetype":"county",

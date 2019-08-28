@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Brunei",
     "iso:country":"BN",
+    "lbl:bbox":"114.54675,4.70964,114.58675,4.74964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Telamba"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309722195,
-    "wof:lastmodified":1537587891,
+    "wof:lastmodified":1566615583,
     "wof:name":"Telamba",
     "wof:parent_id":85669495,
     "wof:placetype":"locality",

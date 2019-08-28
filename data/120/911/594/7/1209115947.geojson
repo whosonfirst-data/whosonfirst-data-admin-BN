@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Brunei",
     "iso:country":"BN",
+    "lbl:bbox":"115.01506,4.96203,115.05506,5.00203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Batu Marang"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209115947,
-    "wof:lastmodified":1537587895,
+    "wof:lastmodified":1566615577,
     "wof:name":"Batu Marang",
     "wof:parent_id":85632749,
     "wof:placetype":"locality",

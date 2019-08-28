@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Seria"
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":56049517,
         "hasc:id":"BN.BE.SE",
-        "qs:id":1112149,
+        "qs_pg:id":1112149,
         "wd:id":"Q2159472"
     },
     "wof:country":"BN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421168427,
-    "wof:lastmodified":1563377257,
+    "wof:lastmodified":1566615583,
     "wof:name":"Seria",
     "wof:parent_id":-1,
     "wof:placetype":"county",

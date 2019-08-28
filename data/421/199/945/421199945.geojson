@@ -10,8 +10,12 @@
     "geom:latitude":4.949243,
     "geom:longitude":114.83889,
     "iso:country":"BN",
+    "lbl:bbox":"114.81889,4.929243,114.85889,4.969243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Jerudong"
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1020727,
-        "qs:id":534049,
+        "qs_pg:id":534049,
         "wd:id":"Q126385"
     },
     "wof:country":"BN",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421199945,
-    "wof:lastmodified":1563377265,
+    "wof:lastmodified":1566615585,
     "wof:name":"Jerudong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

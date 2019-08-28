@@ -12,6 +12,8 @@
     "iso:country":"BN",
     "lbl:latitude":4.889737,
     "lbl:longitude":114.941695,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -393,7 +395,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0430\u043d\u0434\u0430\u0440 \u0421\u0435\u0440\u0456 \u0411\u0435\u0491\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brunei Town"
     ],
     "name:urd_x_preferred":[
@@ -569,9 +571,11 @@
     "wof:concordances":{
         "gn:id":1820906,
         "gp:id":1020725,
-        "qs:id":1104825,
         "qs_pg:id":89558,
         "wd:id":"Q9279"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1104825
     },
     "wof:country":"BN",
     "wof:created":1459009586,
@@ -585,7 +589,7 @@
         }
     ],
     "wof:id":421188863,
-    "wof:lastmodified":1563377263,
+    "wof:lastmodified":1566615584,
     "wof:name":"Bandar Seri Begawan",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

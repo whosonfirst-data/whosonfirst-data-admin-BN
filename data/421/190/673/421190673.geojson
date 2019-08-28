@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kota Batu"
@@ -62,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56049546,
-        "qs:id":1120025,
+        "qs_pg:id":1120025,
         "wd:id":"Q24257789"
     },
     "wof:country":"BN",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421190673,
-    "wof:lastmodified":1563377264,
+    "wof:lastmodified":1566615584,
     "wof:name":"Kota Batu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

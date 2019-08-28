@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.895937,
     "lbl:longitude":114.894321,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.895937,
     "mps:longitude":114.894321,
     "mz:hierarchy_label":1,
@@ -167,7 +168,7 @@
         "Brunei and Muara District"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcd\u0bb0\u0bc1\u0ba9\u0bc6\u0baf\u0bcd -\u0bae\u0bc1\u0bb0\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0bcd\u0bb0\u0bc1\u0ba9\u0bc6\u0baf\u0bcd -\u0bae\u0bc1\u0bb0\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c42\u0c28\u0c40-\u0c2e\u0c41\u0c35\u0c3e\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -181,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439-\u041c\u0443\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brunei District"
     ],
     "name:urd_x_preferred":[
@@ -266,9 +267,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-20",
+    "src:population_date":"2011-06-20",
     "statoids:area_km":"570",
     "statoids:area_mi":"220",
     "statoids:as_of_date":"2011-06-20",
@@ -293,7 +294,7 @@
         "gp:id":20069846,
         "hasc:id":"BN.BM",
         "iso:id":"BN-BM",
-        "qs:id":1084678,
+        "qs_pg:id":1084678,
         "unlc:id":"BN-BM",
         "wd:id":"Q153009"
     },
@@ -313,11 +314,10 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1565654292,
+    "wof:lastmodified":1566615568,
     "wof:name":"Brunei and Muara",
     "wof:parent_id":85632749,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":279924,
     "wof:population_rank":10,

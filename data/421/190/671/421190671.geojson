@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Berakas A"
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gp:id":56049537,
         "hasc:id":"BN.BM.BE",
-        "qs:id":1120024,
+        "qs_pg:id":1120024,
         "wd:id":"Q1952924"
     },
     "wof:country":"BN",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421190671,
-    "wof:lastmodified":1563377265,
+    "wof:lastmodified":1566615585,
     "wof:name":"Berakas A",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

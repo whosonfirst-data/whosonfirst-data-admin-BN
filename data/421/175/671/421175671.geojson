@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Mentiri"
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gp:id":56049547,
         "hasc:id":"BN.BM.ME",
-        "qs:id":1026937,
+        "qs_pg:id":1026937,
         "wd:id":"Q2365615"
     },
     "wof:country":"BN",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421175671,
-    "wof:lastmodified":1563377263,
+    "wof:lastmodified":1566615584,
     "wof:name":"Mentiri",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

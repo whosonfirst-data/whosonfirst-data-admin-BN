@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":4.479716,
     "lbl:longitude":114.578687,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":4.479716,
     "mps:longitude":114.578687,
     "mz:hierarchy_label":1,
@@ -841,12 +843,8 @@
     "name:ukr_x_variant":[
         "\u0411\u0440\u0443\u043d\u0435\u0439-\u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u0430\u043c"
     ],
-    "name:und_x_preferred":[
-        "Brunej",
-        "Br\u00fanei",
-        "Negara Brunei Darussalam"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Negara Brunei Darussalam",
         "State of Brunei"
     ],
     "name:urd_x_preferred":[
@@ -995,7 +993,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"673",
     "statoids:ds":"BRU",
@@ -1040,7 +1038,7 @@
         "mzb:id":"brunei",
         "ne:adm0_a3":"BRN",
         "nyt:id":"62276716820451409921",
-        "qs:id":212488,
+        "qs_pg:id":212488,
         "uncrt:id":"BRU",
         "wd:id":"Q921",
         "wk:page":"Brunei",
@@ -1062,7 +1060,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1565654293,
+    "wof:lastmodified":1566615569,
     "wof:name":"Brunei",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

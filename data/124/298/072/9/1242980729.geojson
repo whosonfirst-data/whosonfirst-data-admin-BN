@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Brunei",
     "iso:country":"BN",
+    "lbl:bbox":"114.82583,4.84458,114.86583,4.88458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Kampung Mulaut"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242980729,
-    "wof:lastmodified":1537587893,
+    "wof:lastmodified":1566615587,
     "wof:name":"Mulaut",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

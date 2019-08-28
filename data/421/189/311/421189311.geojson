@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "mukim"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Sengkurong"
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gp:id":56049533,
         "hasc:id":"BN.BM.SN",
-        "qs:id":1112147,
+        "qs_pg:id":1112147,
         "wd:id":"Q2490410"
     },
     "wof:country":"BN",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421189311,
-    "wof:lastmodified":1563377260,
+    "wof:lastmodified":1566615584,
     "wof:name":"Sengkurong",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

@@ -9,15 +9,18 @@
     "geom:bbox":"114.18333,4.58333,114.18333,4.58333",
     "geom:latitude":4.58333,
     "geom:longitude":114.18333,
-    "gn:gn_country":"BN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":31178,
+    "gn:country":"BN",
+    "gn:fcode":"PPL",
     "gn:population":31178,
     "iso:country":"BN",
+    "lbl:bbox":"114.16333,4.56333,114.20333,4.60333",
     "lbl:latitude":4.58333,
     "lbl:longitude":114.18333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Kuala Belait"
@@ -91,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0430\u043b\u0430-\u0411\u0435\u043b\u0430\u0439\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belait"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +118,7 @@
     "qs_pg:qs_id":89556,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1125853165,
-    "wof:lastmodified":1563377267,
+    "wof:lastmodified":1566615585,
     "wof:name":"Kuala Belait",
     "wof:parent_id":85669485,
     "wof:placetype":"locality",
