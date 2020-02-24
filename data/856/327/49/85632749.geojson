@@ -1046,6 +1046,10 @@
     },
     "wof:country":"BN",
     "wof:country_alpha3":"BRN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"f8a59665e5b162c927703ecd89bd52e6",
     "wof:hierarchy":[
         {
@@ -1060,7 +1064,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1566615569,
+    "wof:lastmodified":1582315532,
     "wof:name":"Brunei",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
