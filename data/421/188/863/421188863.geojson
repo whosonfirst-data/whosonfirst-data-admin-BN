@@ -579,6 +579,10 @@
     },
     "wof:country":"BN",
     "wof:created":1459009586,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef1163db0cc3172d19ca14a8ad40a0c7",
     "wof:hierarchy":[
         {
@@ -589,7 +593,7 @@
         }
     ],
     "wof:id":421188863,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1582315533,
     "wof:name":"Bandar Seri Begawan",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",
