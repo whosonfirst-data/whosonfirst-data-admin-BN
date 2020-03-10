@@ -1022,9 +1022,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Brunei",
-        "digitalenvoy:country_code":[
-            96
-        ],
+        "digitalenvoy:country_code":96,
         "fb:id":"en.brunei",
         "fifa:id":"BRU",
         "fips:code":"BX",
@@ -1067,7 +1065,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1583529090,
+    "wof:lastmodified":1583797293,
     "wof:name":"Brunei",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
