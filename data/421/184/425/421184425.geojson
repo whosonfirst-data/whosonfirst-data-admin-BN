@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Rambai"
     ],
+    "name:fra_x_preferred":[
+        "Rambai"
+    ],
     "name:ita_x_preferred":[
         "Mukim di Rambai"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421184425,
-    "wof:lastmodified":1566615585,
+    "wof:lastmodified":1627521600,
     "wof:name":"Rambai",
     "wof:parent_id":85669495,
     "wof:placetype":"county",

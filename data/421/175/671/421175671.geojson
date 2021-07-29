@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"115.0222685,5.011433,115.0222685,5.011433",
+    "geom:bbox":"115.022268,5.011433,115.022268,5.011433",
     "geom:latitude":5.011433,
     "geom:longitude":115.022268,
     "iso:country":"BN",
@@ -29,6 +29,9 @@
         "Mentiri"
     ],
     "name:eus_x_preferred":[
+        "Mentiri"
+    ],
+    "name:fra_x_preferred":[
         "Mentiri"
     ],
     "name:msa_x_preferred":[
@@ -87,7 +90,7 @@
     },
     "wof:country":"BN",
     "wof:created":1459009075,
-    "wof:geomhash":"47422a70d5fb2ec6651d5c723e8bc56c",
+    "wof:geomhash":"7f6a0decaa1c2fd7c54fbcbd3384c4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421175671,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1627521600,
     "wof:name":"Mentiri",
     "wof:parent_id":85669487,
     "wof:placetype":"county",
@@ -109,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    115.0222685,
+    115.022268,
     5.011433,
-    115.0222685,
+    115.022268,
     5.011433
 ],
-  "geometry": {"coordinates":[115.0222685,5.011433],"type":"Point"}
+  "geometry": {"coordinates":[115.022268,5.011433],"type":"Point"}
 }

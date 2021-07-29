@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Kota Batu"
     ],
+    "name:fra_x_preferred":[
+        "Kota Batu"
+    ],
     "name:nld_x_preferred":[
         "Kota Batu"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421190673,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1627521600,
     "wof:name":"Kota Batu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

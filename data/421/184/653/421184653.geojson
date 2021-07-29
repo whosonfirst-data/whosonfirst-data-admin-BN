@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Keriam"
     ],
+    "name:fra_x_preferred":[
+        "Keriam"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421184653,
-    "wof:lastmodified":1566615585,
+    "wof:lastmodified":1627521600,
     "wof:name":"Keriam",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Sengkurong"
     ],
+    "name:fra_x_preferred":[
+        "Sengkurong"
+    ],
     "name:msa_x_preferred":[
         "Mukim Sengkurong"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421189311,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1627521600,
     "wof:name":"Sengkurong",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

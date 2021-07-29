@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Amo"
     ],
+    "name:fra_x_preferred":[
+        "Amo"
+    ],
     "name:nld_x_preferred":[
         "Amo"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421190675,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1627521600,
     "wof:name":"Amo",
     "wof:parent_id":85669491,
     "wof:placetype":"county",

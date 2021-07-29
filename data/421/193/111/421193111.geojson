@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Kilanas"
     ],
+    "name:fra_x_preferred":[
+        "Kilanas"
+    ],
     "name:ita_x_preferred":[
         "Mukim di Kilanas"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421193111,
-    "wof:lastmodified":1566615583,
+    "wof:lastmodified":1627521600,
     "wof:name":"Kilanas",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

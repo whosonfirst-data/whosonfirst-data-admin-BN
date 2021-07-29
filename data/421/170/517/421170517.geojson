@@ -34,6 +34,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0648\u06a9\u0648\u06a9"
     ],
+    "name:fra_x_preferred":[
+        "Bukok"
+    ],
     "name:ita_x_preferred":[
         "Mukim di Bukok"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421170517,
-    "wof:lastmodified":1566615585,
+    "wof:lastmodified":1627521600,
     "wof:name":"Bukok",
     "wof:parent_id":85669491,
     "wof:placetype":"county",
