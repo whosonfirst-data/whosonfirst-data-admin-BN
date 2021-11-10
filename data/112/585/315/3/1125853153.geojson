@@ -40,6 +40,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e7\u05d0\u05df \u05d8\u05d5\u05d8\u05d5\u05e0\u05d2"
     ],
+    "name:hun_x_preferred":[
+        "Tutong"
+    ],
     "name:ind_x_preferred":[
         "Pekan Tutong"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125853153,
-    "wof:lastmodified":1566615585,
+    "wof:lastmodified":1636494977,
     "wof:name":"Tutong",
     "wof:parent_id":85669495,
     "wof:placetype":"locality",
