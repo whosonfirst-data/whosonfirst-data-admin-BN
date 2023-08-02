@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Bokok"
     ],
+    "name:eng_x_variant":[
+        "Mukim Bokok"
+    ],
     "name:eus_x_preferred":[
         "Bokok"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:msa_x_preferred":[
         "Mukim Bokok"
+    ],
+    "name:nan_x_preferred":[
+        "Bokok K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Bokok"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421170517,
-    "wof:lastmodified":1627521600,
+    "wof:lastmodified":1690860262,
     "wof:name":"Bukok",
     "wof:parent_id":85669491,
     "wof:placetype":"county",

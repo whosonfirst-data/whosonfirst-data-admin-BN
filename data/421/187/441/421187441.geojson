@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Muara Town"
+    ],
     "name:deu_x_preferred":[
         "Muara"
     ],
     "name:eng_x_preferred":[
         "Muara"
+    ],
+    "name:eng_x_variant":[
+        "Muara Town"
     ],
     "name:fra_x_preferred":[
         "Muara"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421187441,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1690860260,
     "wof:name":"Muara",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

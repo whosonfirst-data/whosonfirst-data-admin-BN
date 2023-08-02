@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Kilanas"
     ],
+    "name:eng_x_variant":[
+        "Mukim Kilanas"
+    ],
     "name:eus_x_preferred":[
         "Kilanas"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:msa_x_preferred":[
         "Mukim Kilanas"
+    ],
+    "name:nan_x_preferred":[
+        "Kilanas K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Kilanas"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421193111,
-    "wof:lastmodified":1627521600,
+    "wof:lastmodified":1690860259,
     "wof:name":"Kilanas",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

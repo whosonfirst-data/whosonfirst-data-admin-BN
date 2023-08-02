@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Jerudong"
     ],
+    "name:eng_x_variant":[
+        "Kampong Jerudong"
+    ],
     "name:fra_x_preferred":[
         "Jerudong"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0440\u0443\u0434\u043e\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u9b6f\u6771"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":421199945,
-    "wof:lastmodified":1566615585,
+    "wof:lastmodified":1690860262,
     "wof:name":"Jerudong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

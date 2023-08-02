@@ -31,7 +31,16 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u062f\u0631 \u0633\u0631\u064a \u0628\u0643\u0627\u0648\u0627\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0646\u062f\u0631 \u0633\u064a\u0631\u064a \u0628\u0627\u06ad\u0627\u0648\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0646\u062f\u0631 \u0633\u0631\u0649 \u0628\u0643\u0627\u0648\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
+        "Bandar Seri Begawan"
+    ],
+    "name:aym_x_preferred":[
         "Bandar Seri Begawan"
     ],
     "name:aze_x_preferred":[
@@ -39,6 +48,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440-\u0421\u0435\u0440\u0438-\u0411\u0435\u0433\u0430\u0432\u0430\u043d"
+    ],
+    "name:ban_x_preferred":[
+        "Bandar Seri Begawan"
     ],
     "name:bcl_x_preferred":[
         "Bandar Seri Begawan"
@@ -52,6 +64,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09a8\u09cd\u09a6\u09b0 \u09b8\u09c7\u09b0\u09bf \u09ac\u09c7\u0997\u09be\u0993\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:bjn_x_preferred":[
+        "Bandar Seri Begawan"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f54\u0f7a\u0f0b\u0f40\u0f0b\u0f58\u0f5a\u0f7c\u0f0b\u0f41\u0f74\u0f42\u0f66\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
@@ -93,6 +108,9 @@
         "Bandar Seri Begawan"
     ],
     "name:deu_x_preferred":[
+        "Bandar Seri Begawan"
+    ],
+    "name:diq_x_preferred":[
         "Bandar Seri Begawan"
     ],
     "name:ell_x_preferred":[
@@ -148,6 +166,9 @@
     ],
     "name:hat_x_preferred":[
         "Banda Seri"
+    ],
+    "name:hau_x_preferred":[
+        "Bandar Seri Begawan"
     ],
     "name:hbs_x_preferred":[
         "Bandar Seri Begawan"
@@ -215,6 +236,9 @@
     "name:kor_x_preferred":[
         "\ubc18\ub2e4\ub974\uc2a4\ub9ac\ube0c\uac00\uc644"
     ],
+    "name:krj_x_preferred":[
+        "Dakbanwa \u015ar\u012b Bhagav\u0101n"
+    ],
     "name:lat_x_preferred":[
         "Bandar Seri Begawan"
     ],
@@ -266,6 +290,9 @@
     "name:myv_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440-\u0421\u0435\u0440\u0438-\u0411\u0435\u0433\u0430\u0432\u0430\u043d"
     ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0646\u062f\u0631 \u0633\u0631\u06cc \u0628\u06af\u0627\u0648\u0627\u0646"
+    ],
     "name:nah_x_preferred":[
         "Bandar Seri Begawan"
     ],
@@ -299,6 +326,9 @@
     "name:oci_x_preferred":[
         "Bandar Seri Begawan"
     ],
+    "name:olo_x_preferred":[
+        "Bandar-Seri-Begavan"
+    ],
     "name:oss_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440-\u0421\u0435\u0440\u0438-\u0411\u0435\u0433\u0430\u0432\u0430\u043d"
     ],
@@ -329,6 +359,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440-\u0421\u0435\u0440\u0438-\u0411\u0435\u0433\u0430\u0432\u0430\u043d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c5a\u1c71\u1c6b\u1c5a\u1c68 \u1c65\u1c6e\u1c68\u1c64 \u1c75\u1c6e\u1c5c\u1c5f\u1c63\u1c5f\u1c71"
+    ],
     "name:sco_x_preferred":[
         "Bandar Seri Begawan"
     ],
@@ -351,6 +384,9 @@
         "Bandar Seri Begauan"
     ],
     "name:sqi_x_variant":[
+        "Bandar Seri Begawan"
+    ],
+    "name:srd_x_preferred":[
         "Bandar Seri Begawan"
     ],
     "name:srp_x_preferred":[
@@ -386,6 +422,9 @@
     "name:tur_x_preferred":[
         "Bandar Seri Begavan"
     ],
+    "name:udm_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0430\u0440-\u0421\u0435\u0440\u0438-\u0411\u0435\u0433\u0430\u0432\u0430\u043d"
+    ],
     "name:uig_x_preferred":[
         "\u0628\u0627\u0646\u062f\u0627\u0631 \u0633\u06d5\u0631\u0649 \u0628\u06d5\u06af\u0627\u06cb\u0627\u0646"
     ],
@@ -404,6 +443,9 @@
     "name:uzb_x_preferred":[
         "Bandar-Seri-Begavan"
     ],
+    "name:vec_x_preferred":[
+        "Bandar Seri Begawan"
+    ],
     "name:vep_x_preferred":[
         "Bandar Seri Begavan"
     ],
@@ -418,6 +460,9 @@
     ],
     "name:war_x_preferred":[
         "Bandar Seri Begawan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u91cc\u5df4\u52a0\u6e7e\u5e02"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d0\u10dc\u10d3\u10d0\u10e0-\u10e1\u10d4\u10e0\u10d8-\u10d1\u10d4\u10d2\u10d0\u10d5\u10d0\u10dc\u10d8"
@@ -595,7 +640,7 @@
         }
     ],
     "wof:id":421188863,
-    "wof:lastmodified":1607390898,
+    "wof:lastmodified":1690860261,
     "wof:name":"Bandar Seri Begawan",
     "wof:parent_id":85669487,
     "wof:placetype":"locality",

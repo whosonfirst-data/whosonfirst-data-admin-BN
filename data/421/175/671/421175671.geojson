@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Mentiri"
     ],
+    "name:eng_x_variant":[
+        "Mukim Mentiri"
+    ],
     "name:eus_x_preferred":[
         "Mentiri"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:msa_x_preferred":[
         "Mukim Mentiri"
+    ],
+    "name:nan_x_preferred":[
+        "Mentiri K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Mentiri"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421175671,
-    "wof:lastmodified":1627521600,
+    "wof:lastmodified":1690860261,
     "wof:name":"Mentiri",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

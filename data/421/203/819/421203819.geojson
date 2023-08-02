@@ -23,11 +23,17 @@
     "name:eng_x_preferred":[
         "Bangar"
     ],
+    "name:eng_x_variant":[
+        "Bangar Town"
+    ],
     "name:fra_x_preferred":[
         "Bangar"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05e0\u05d2\u05d0\u05e8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0576\u0563\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Bangar"
@@ -46,6 +52,9 @@
     ],
     "name:msa_x_preferred":[
         "Bangar"
+    ],
+    "name:msa_x_variant":[
+        "Pekan Bangar"
     ],
     "name:nau_x_preferred":[
         "Bangar"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":421203819,
-    "wof:lastmodified":1566615583,
+    "wof:lastmodified":1690860260,
     "wof:name":"Bangar",
     "wof:parent_id":85669491,
     "wof:placetype":"locality",

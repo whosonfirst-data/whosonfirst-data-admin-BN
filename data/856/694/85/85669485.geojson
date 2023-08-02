@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u09be\u09a4\u09bf \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u09b2\u09be\u0987\u09a4 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0439\u0442"
     ],
@@ -69,6 +72,9 @@
     "name:eus_x_preferred":[
         "Belait barrutia"
     ],
+    "name:eus_x_variant":[
+        "Belait"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u0627\u0626\u06cc\u062a"
     ],
@@ -96,8 +102,14 @@
     "name:hun_x_preferred":[
         "Belait"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0565\u056c\u0561\u0575\u056b"
+    ],
     "name:ind_x_preferred":[
         "Distrik Belait"
+    ],
+    "name:ind_x_variant":[
+        "Daerah Belait"
     ],
     "name:ita_x_preferred":[
         "distretto di Belait"
@@ -182,6 +194,9 @@
     ],
     "name:war_x_preferred":[
         "Belait"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u4f86\u5955\u7e23"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u6765\u5955\u53bf"
@@ -304,7 +319,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1636494977,
+    "wof:lastmodified":1690860258,
     "wof:name":"Belait",
     "wof:parent_id":85632749,
     "wof:placetype":"region",
