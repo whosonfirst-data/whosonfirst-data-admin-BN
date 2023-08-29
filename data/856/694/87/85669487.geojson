@@ -44,6 +44,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u09a8\u09c7\u0987 \u09ae\u09cb\u09af\u09bc\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09cd\u09b0\u09c1\u09a8\u09be\u0987-\u09ae\u09c1\u09af\u09bc\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u043d\u0435\u0439-\u041c\u0443\u0430\u0440\u0430"
     ],
@@ -77,6 +80,9 @@
     "name:eus_x_preferred":[
         "Brunei eta Muara"
     ],
+    "name:eus_x_variant":[
+        "Brunei-Muara"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u0648\u0646\u0626\u06cc-\u0645\u0648\u0622\u0631\u0627"
     ],
@@ -104,8 +110,14 @@
     "name:hun_x_preferred":[
         "Brunei \u00e9s Muara"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0580\u0578\u0582\u0576\u0567\u0575-\u0544\u0578\u0582\u0561\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Distrik Brunei-Muara"
+    ],
+    "name:ind_x_variant":[
+        "Daerah Brunei-Muara"
     ],
     "name:ita_x_preferred":[
         "distretto di Brunei-Muara"
@@ -177,6 +189,9 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c42\u0c28\u0c40-\u0c2e\u0c41\u0c35\u0c3e\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
+    "name:tgl_x_preferred":[
+        "Distrito ng Brunei-Muara"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1a\u0e23\u0e39\u0e44\u0e19-\u0e21\u0e31\u0e27\u0e23\u0e32"
     ],
@@ -197,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "Brunei-Muara"
+    ],
+    "name:yue_x_preferred":[
+        "\u6469\u62c9\u7e23"
     ],
     "name:zho_x_preferred":[
         "\u6c76\u83b1\u6469\u62c9\u53bf"
@@ -318,7 +336,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1636494977,
+    "wof:lastmodified":1690860257,
     "wof:name":"Brunei and Muara",
     "wof:parent_id":85632749,
     "wof:placetype":"region",

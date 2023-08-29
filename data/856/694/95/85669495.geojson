@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09a4\u0982 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u099f\u09c1\u099f\u0982 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u0442\u043e\u043d\u0433"
     ],
@@ -69,6 +72,9 @@
     "name:eus_x_preferred":[
         "Tutong barrutia"
     ],
+    "name:eus_x_variant":[
+        "Tutong"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u062a\u0648\u062a\u0646\u06af"
     ],
@@ -76,6 +82,9 @@
         "Tutong"
     ],
     "name:fra_x_preferred":[
+        "Tutong"
+    ],
+    "name:frr_x_preferred":[
         "Tutong"
     ],
     "name:glg_x_preferred":[
@@ -93,8 +102,14 @@
     "name:hun_x_preferred":[
         "Tutong"
     ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0578\u0582\u0569\u0578\u0576\u056f"
+    ],
     "name:ind_x_preferred":[
         "Distrik Tutong"
+    ],
+    "name:ind_x_variant":[
+        "Tutong"
     ],
     "name:ita_x_preferred":[
         "distretto di Tutong"
@@ -182,6 +197,9 @@
     ],
     "name:war_x_preferred":[
         "Tutong"
+    ],
+    "name:yue_x_preferred":[
+        "\u90fd\u6771\u7e23"
     ],
     "name:zho_x_preferred":[
         "\u90fd\u4e1c\u53bf"
@@ -304,7 +322,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1636494976,
+    "wof:lastmodified":1690860257,
     "wof:name":"Tutong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",

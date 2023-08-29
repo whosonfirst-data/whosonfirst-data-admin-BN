@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Rambai"
     ],
+    "name:eng_x_variant":[
+        "Mukim Rambai"
+    ],
     "name:eus_x_preferred":[
         "Rambai"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:msa_x_preferred":[
         "Mukim Rambai"
+    ],
+    "name:nan_x_preferred":[
+        "Rambai K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Rambai"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421184425,
-    "wof:lastmodified":1627521600,
+    "wof:lastmodified":1690860262,
     "wof:name":"Rambai",
     "wof:parent_id":85669495,
     "wof:placetype":"county",
