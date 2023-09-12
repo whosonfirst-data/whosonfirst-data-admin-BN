@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.480364,
-    "geom:area_square_m":5921248515.702683,
+    "geom:area_square_m":5921248515.7041,
     "geom:bbox":"114.076123,4.002508,115.360519,5.049556",
     "geom:latitude":4.52306,
     "geom:longitude":114.749236,
@@ -14,6 +14,9 @@
     "iso:country":"BN",
     "itu:country_code":[
         "673"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BN"
@@ -1174,7 +1177,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"673",
     "statoids:ds":"BRU",
     "statoids:fifa":"BRU",
@@ -1232,7 +1236,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"e9fd98bea1c94c79f1e62b1d5c711402",
+    "wof:geomhash":"a72953ebe4c0b9ce2eed4b1a3877d3d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1246,12 +1250,12 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690860258,
+    "wof:lastmodified":1694492049,
     "wof:name":"Brunei",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":417784,
-    "wof:population_rank":10,
+    "wof:population":433285,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bn",
     "wof:shortcode":"BN",
     "wof:superseded_by":[],
