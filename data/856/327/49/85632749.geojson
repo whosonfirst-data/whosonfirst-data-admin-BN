@@ -1178,7 +1178,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"673",
     "statoids:ds":"BRU",
     "statoids:fifa":"BRU",
@@ -1250,7 +1250,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1694492049,
+    "wof:lastmodified":1694639504,
     "wof:name":"Brunei",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
