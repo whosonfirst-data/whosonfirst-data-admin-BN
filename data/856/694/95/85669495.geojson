@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088147,
-    "geom:area_square_m":1086431766.870649,
+    "geom:area_square_m":1086431973.070085,
     "geom:bbox":"114.494444,4.30024,114.847904,4.898766",
     "geom:latitude":4.604446,
     "geom:longitude":114.687965,
@@ -300,14 +300,16 @@
         "gn:id":1820068,
         "gp:id":20069848,
         "hasc:id":"BN.TU",
+        "iso:code":"BN-TU",
         "iso:id":"BN-TU",
         "qs_pg:id":339447,
         "unlc:id":"BN-TU",
         "wd:id":"Q40398",
         "wk:page":"Tutong District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BN",
-    "wof:geomhash":"82b82983880122cb1fcfc141d42024d0",
+    "wof:geomhash":"920dfdad11b0ded7317ae937825d112b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -322,7 +324,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690860257,
+    "wof:lastmodified":1695884784,
     "wof:name":"Tutong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",
