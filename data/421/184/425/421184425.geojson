@@ -103,9 +103,10 @@
         "qs_pg:id":996367,
         "wd:id":"Q2704145"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009410,
-    "wof:geomhash":"b670e46c11d189b0380a3bb6a3705f76",
+    "wof:geomhash":"0007fd66f6706eccdede2cc384afba3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421184425,
-    "wof:lastmodified":1690860262,
+    "wof:lastmodified":1695886183,
     "wof:name":"Rambai",
     "wof:parent_id":85669495,
     "wof:placetype":"county",

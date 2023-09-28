@@ -100,9 +100,10 @@
         "qs_pg:id":1112147,
         "wd:id":"Q2490410"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009617,
-    "wof:geomhash":"96f4c3d5d45d3f2d29b3424540f10ed6",
+    "wof:geomhash":"acf015e7bfe1099317bbfbecd8cb439e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421189311,
-    "wof:lastmodified":1690860260,
+    "wof:lastmodified":1695886183,
     "wof:name":"Sengkurong",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

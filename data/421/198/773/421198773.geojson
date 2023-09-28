@@ -69,9 +69,10 @@
         "hasc:id":"BN.BM.GA",
         "qs_pg:id":1112151
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009960,
-    "wof:geomhash":"17f3bb13d5b10716207d6073259de1e7",
+    "wof:geomhash":"dd34d76a8056e73b99598cd651563959",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":421198773,
-    "wof:lastmodified":1566615584,
+    "wof:lastmodified":1695886920,
     "wof:name":"Gadong",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

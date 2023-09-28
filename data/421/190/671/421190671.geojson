@@ -119,9 +119,10 @@
         "qs_pg:id":1120024,
         "wd:id":"Q1952924"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009665,
-    "wof:geomhash":"41bbc5509037b70f92be800f3376d25e",
+    "wof:geomhash":"8582d065caca86d6b4f8380816ba8353",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421190671,
-    "wof:lastmodified":1690860262,
+    "wof:lastmodified":1695886183,
     "wof:name":"Berakas A",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

@@ -94,9 +94,10 @@
         "qs_pg:id":1026937,
         "wd:id":"Q2365615"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009075,
-    "wof:geomhash":"7f6a0decaa1c2fd7c54fbcbd3384c4cf",
+    "wof:geomhash":"a996a04b25f9b2f34346323112457bda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421175671,
-    "wof:lastmodified":1690860261,
+    "wof:lastmodified":1695886183,
     "wof:name":"Mentiri",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

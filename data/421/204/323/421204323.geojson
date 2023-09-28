@@ -154,9 +154,10 @@
         "qs_pg:id":239149,
         "wd:id":"Q588045"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459010181,
-    "wof:geomhash":"cb01519ea04ee367ec27647477970e24",
+    "wof:geomhash":"e9e38a8ffa3b9c218514d146e5133725",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421204323,
-    "wof:lastmodified":1690860259,
+    "wof:lastmodified":1695886920,
     "wof:name":"Kuala Belait",
     "wof:parent_id":85669485,
     "wof:placetype":"county",
