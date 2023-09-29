@@ -76,7 +76,7 @@
     },
     "wof:country":"BN",
     "wof:created":1459009665,
-    "wof:geomhash":"ea8ced5bf9507d30f665227c0c5d284e",
+    "wof:geomhash":"83fcf5b75ced368f74de93ecaa5d314e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":421190673,
-    "wof:lastmodified":1690860261,
+    "wof:lastmodified":1695887511,
     "wof:name":"Kota Batu",
     "wof:parent_id":85675177,
     "wof:placetype":"county",

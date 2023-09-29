@@ -93,9 +93,10 @@
         "hasc:id":"BN.BE.LI",
         "qs_pg:id":792771
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009360,
-    "wof:geomhash":"d129eb672b3d0fc7d2d0e6290e5d09b8",
+    "wof:geomhash":"360bae0307af021276757bf583ed67de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421183167,
-    "wof:lastmodified":1566615585,
+    "wof:lastmodified":1695886921,
     "wof:name":"Liang",
     "wof:parent_id":85669485,
     "wof:placetype":"county",

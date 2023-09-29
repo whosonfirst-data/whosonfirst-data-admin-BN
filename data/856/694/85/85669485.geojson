@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225662,
-    "geom:area_square_m":2782249883.782112,
+    "geom:area_square_m":2782249582.412234,
     "geom:bbox":"113.99879,4.016681,114.817208,4.681249",
     "geom:latitude":4.366613,
     "geom:longitude":114.50171,
@@ -297,14 +297,16 @@
         "gn:id":1820869,
         "gp:id":20069849,
         "hasc:id":"BN.BE",
+        "iso:code":"BN-BE",
         "iso:id":"BN-BE",
         "qs_pg:id":890280,
         "unlc:id":"BN-BE",
         "wd:id":"Q40395",
         "wk:page":"Belait District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BN",
-    "wof:geomhash":"ef23b62720c43821969617e0ad6ca5cb",
+    "wof:geomhash":"5eec6f772dbe40a5233b1eea33c21bea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +321,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690860258,
+    "wof:lastmodified":1695884784,
     "wof:name":"Belait",
     "wof:parent_id":85632749,
     "wof:placetype":"region",

@@ -97,9 +97,10 @@
         "qs_pg:id":1112150,
         "wd:id":"Q2365651"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009760,
-    "wof:geomhash":"ee2ce67d97e8264cfeadda0cdc3e7228",
+    "wof:geomhash":"32dd289350dd99d83bd3f3f8adbafdf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421193111,
-    "wof:lastmodified":1690860259,
+    "wof:lastmodified":1695886183,
     "wof:name":"Kilanas",
     "wof:parent_id":85669487,
     "wof:placetype":"county",

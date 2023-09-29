@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105858,
-    "geom:area_square_m":1304737541.977541,
+    "geom:area_square_m":1304736355.445822,
     "geom:bbox":"115.022777,4.313769,115.360741,4.90884",
     "geom:latitude":4.595306,
     "geom:longitude":115.166658,
@@ -306,14 +306,16 @@
         "gn:id":1820106,
         "gp:id":20069847,
         "hasc:id":"BN.TE",
+        "iso:code":"BN-TE",
         "iso:id":"BN-TE",
         "qs_pg:id":1085116,
         "unlc:id":"BN-TE",
         "wd:id":"Q263285",
         "wk:page":"Temburong District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BN",
-    "wof:geomhash":"2ecfaf735629b85819fb484155aab5e6",
+    "wof:geomhash":"480ba28ff996004e765cbde0906caeb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1690860258,
+    "wof:lastmodified":1695884483,
     "wof:name":"Temburong",
     "wof:parent_id":85632749,
     "wof:placetype":"region",

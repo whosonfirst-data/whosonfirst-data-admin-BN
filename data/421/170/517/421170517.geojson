@@ -106,9 +106,10 @@
         "qs_pg:id":1191477,
         "wd:id":"Q2491114"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459008856,
-    "wof:geomhash":"1188a3577997d26eba4c2e18adc64797",
+    "wof:geomhash":"22f64c04c1c019e12c620bcd83bfede9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":421170517,
-    "wof:lastmodified":1690860262,
+    "wof:lastmodified":1695886182,
     "wof:name":"Bukok",
     "wof:parent_id":85669491,
     "wof:placetype":"county",

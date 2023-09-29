@@ -66,9 +66,10 @@
         "hasc:id":"BN.TU.KE",
         "qs_pg:id":1002807
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459009418,
-    "wof:geomhash":"f415cd76530c99502c2d2e6b4b84673c",
+    "wof:geomhash":"14536d05e0704fc32ee33d69697c6720",
     "wof:hierarchy":[
         {
             "country_id":85632749,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":421184653,
-    "wof:lastmodified":1627521600,
+    "wof:lastmodified":1695886183,
     "wof:name":"Keriam",
     "wof:parent_id":-1,
     "wof:placetype":"county",

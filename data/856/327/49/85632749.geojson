@@ -1216,6 +1216,7 @@
         "hasc:id":"BN",
         "icao:code":"V8",
         "ioc:id":"BRU",
+        "iso:code":"BN",
         "itu:id":"BRU",
         "loc:id":"n81131874",
         "m49:code":"096",
@@ -1230,6 +1231,7 @@
         "wk:page":"Brunei",
         "wmo:id":"BD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BN",
     "wof:country_alpha3":"BRN",
     "wof:geom_alt":[
@@ -1250,7 +1252,7 @@
     "wof:lang_x_spoken":[
         "msa"
     ],
-    "wof:lastmodified":1694639504,
+    "wof:lastmodified":1695881158,
     "wof:name":"Brunei",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

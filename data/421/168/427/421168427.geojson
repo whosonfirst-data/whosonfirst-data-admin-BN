@@ -137,9 +137,10 @@
         "qs_pg:id":1112149,
         "wd:id":"Q2159472"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BN",
     "wof:created":1459008764,
-    "wof:geomhash":"86c5f75edfae17d401d01e60e30aa6d3",
+    "wof:geomhash":"6f3637d8c5db18decaa04ccbec3801d8",
     "wof:hierarchy":[
         {
             "country_id":85632749,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421168427,
-    "wof:lastmodified":1690860259,
+    "wof:lastmodified":1695886920,
     "wof:name":"Seria",
     "wof:parent_id":-1,
     "wof:placetype":"county",
